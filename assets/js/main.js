@@ -33,14 +33,11 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
     }
      }*/
-$('#nav').on('affix.bs.affix', function () {
-    var navHeight = $('.navbar').outerHeight(true);
-    $('#nav + .container').css('margin-top', navHeight);
-});
-
-$('#nav').on('affix-top.bs.affix', function () {
-    $('#nav + .container').css('margin-top', 0);
-});
+     $('#nav').affix({
+      offset: {
+        top: $('header').height()-$('#nav').height()
+        }
+      }); 
     }
   },
   // Home page
