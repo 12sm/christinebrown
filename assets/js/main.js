@@ -24,12 +24,21 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
         console.log('common page is firing');
-if ($(window).width() <= 768){
-    $.backstretch('../assets/img/bg.jpg');
-  } else {
-    $.backstretch('../assets/img/bg.jpg');
+    $('#signup').bind('touchstart', function(e) {
+        $(this).toggleClass('hover_effect');    
+    });
+    if ($(window).width() <= 768){
+       $.backstretch('../assets/img/bg.jpg');
+      } else {
+       $.backstretch('../assets/img/bg.jpg');
   }
     }
+    $('#navbartop').affix({
+      offset: {
+        top: $('header').height()
+      }
+}); 
+
   },
   // Home page
   home: {
