@@ -7,7 +7,7 @@
   </div>
   </div>
 </div>
-<header class="banner navbar navbar-default navbar-static-top navbartop" role="banner" id="navbartop">
+<header class="banner navbar navbar-default navbar-static-top navbartop" role="banner" id="nav">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
