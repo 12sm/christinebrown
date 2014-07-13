@@ -1,15 +1,21 @@
 <div class="topbanner">
-    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>  
-</div>
-<header class="banner navbar navbar-default navbar-static-top" role="banner">
   <div class="container">
-    <div id="navbartop.affix-top">
+  <div class="row">
+    <div class="col-md-6">
+    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+  </div>
+  </div>
+</div>
+<header class="banner navbar navbar-default navbar-static-top" role="banner" id="">
+  <div class="container">
+    <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
     </div>
 
     <nav class="collapse navbar-collapse" role="navigation">
@@ -19,6 +25,5 @@
         endif;
       ?>
     </nav>
-  </div>
   </div>
 </header>

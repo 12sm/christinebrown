@@ -98,21 +98,23 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  #navbartop.affix-top {
+
+#navbar-header.affix-top {
    position: static;
    margin-top:75px;
    width: 100%;
    background-color:rgba(0, 0, 0, 0.5)
   }
   
-  #navbartop.affix {
+#navbar-header.affix {
     position: fixed;
     top:75px;
     width: 100%;
-
   }
+.affix,.affix-top {
+   position:static;
+   }
 }
- }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) { }
