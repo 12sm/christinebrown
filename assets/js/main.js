@@ -31,13 +31,13 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
       } else {
        $.backstretch('../assets/img/bg.jpg');
-  }
+    }); 
     }
-  $('#nav').affix({
+     $('#nav').affix({
       offset: {
         top: $('header').height()-$('#nav').height()
       }
-}); 
+    }); 
   },
   // Home page
   home: {
