@@ -2,8 +2,9 @@
   <div class="container">
     <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
   </div>  
+
+<header class="navbartop.affix-top">
 <div class="container">
-    <div id="navbartop.affix-top">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
