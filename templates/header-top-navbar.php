@@ -2,7 +2,7 @@
   <div class="container">
     <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
   </div>  
-
+</header>
 <header class="navbartop.affix-top">
 <div class="container">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
