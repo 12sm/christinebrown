@@ -98,6 +98,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    position: static;
    margin-top:75px;
    width: 100%;
+   background-color:rgba(0, 0, 0, 0.5)
   }
   
   #navbartop.affix {
