@@ -33,7 +33,7 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
   }
     }
-    $('.navbar').affix({
+    $('#navbartop').affix({
       offset: {
         top: $('header').height()
       }
