@@ -33,11 +33,11 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
     }
      }*/
-     $('#nav').affix({
+$('#nav').affix({
       offset: {
-        top: $('header').height()-$('#nav').height()
-        }
-      }); 
+        top: $('header').height()
+      }
+});  
     }
   },
   // Home page
