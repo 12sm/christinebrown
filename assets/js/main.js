@@ -31,7 +31,6 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
       } else {
        $.backstretch('../assets/img/bg.jpg');
-    }); 
     }
      $('#nav').affix({
       offset: {
