@@ -21,7 +21,7 @@
 var Roots = {
   // All pages
   common: {
-    init: function() {
+    /*init: function() {
       // JavaScript to be fired on all pages
         console.log('common page is firing');
     $('#signup').bind('touchstart', function(e) {
@@ -32,6 +32,7 @@ var Roots = {
       } else {
        $.backstretch('../assets/img/bg.jpg');
     }
+     }*/
      $('#nav').affix({
       offset: {
         top: $('header').height()-$('#nav').height()
