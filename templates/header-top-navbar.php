@@ -1,4 +1,4 @@
-<header class="topbanner">
+<header class="topbanner" role="banner">
   <div class="container">
   <div class="row">
     <div class="col-md-6">
@@ -7,7 +7,7 @@
   </div>
   </div>
 </header>
-<div class="banner navbar navbar-custom navbar-static-top navbartop affix" role="banner" id="nav">
+<div class="banner navbar navbar-custom navbar-static-top navbartop" id="nav">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
