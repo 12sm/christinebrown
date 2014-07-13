@@ -23,6 +23,18 @@ body {
    height: 250px;
    background-color: #6d4;
    }
+ #nav {
+  width: 100%;
+  position:static;
+  top:-32px;
+}
+
+#nav.affix {
+   position: fixed;
+   top: 0;
+   z-index:10;
+   -webkit-transition: all .6s ease-in-out;
+  }  
 
 
 
@@ -98,19 +110,45 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-
-#nav {
-  width: 100%;
-  position:static;
-  top:-32px;
+.navbar-nav.nav-justified > li{
+      float:none;
+  }
+}
+.navbar-nav {
+  margin: 1px 1px; 
+}  
+  
+/* customize nav style */
+.navbar-custom {
+    background-color: #2e2e2e;
+   font-weight:700;
+    text-transform:uppercase;
+    border-width:0;
+}
+.navbar-custom  .navbar-nav>li>a {
+   color: #ddd;
+}
+.navbar-custom  .navbar-nav li>a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a  {
+   background-color: #000;
+}
+.navbar-custom .dropdown-menu{
+   right:0;
+}
+.navbar-custom .navbar-nav>.dropdown>a .caret {
+   border-top-color: #999;
+   border-bottom-color: #999;
 }
 
-#nav.affix {
-   position: fixed;
-   top: 0;
-   z-index:10;
-  }
-  
+.navbar-collapse.in { /*3.0.2 bug workaround*/
+    overflow-y: visible;
+}
+
+.navbar-toggle {
+   outline:0;
+}
+
+
+
 .affix,.affix-top {
    position:static;
    }
