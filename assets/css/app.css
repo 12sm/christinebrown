@@ -99,14 +99,14 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
-#navbartop.affix-top {
+.navbartop.affix-top {
    position: static;
    margin-top:75px;
    width: 100%;
    background-color:rgba(0, 0, 0, 0.5)
   }
   
-#navbartop.affix {
+.navbartop.affix {
     position: fixed;
     top:75px;
     width: 100%;
