@@ -21,10 +21,10 @@
 var Roots = {
   // All pages
   common: {
-    /*init: function() {
+    init: function() {
       // JavaScript to be fired on all pages
         console.log('common page is firing');
-    $('#signup').bind('touchstart', function(e) {
+    /*$('#signup').bind('touchstart', function(e) {
         $(this).toggleClass('hover_effect');    
     });
     if ($(window).width() <= 768){
@@ -35,9 +35,10 @@ var Roots = {
      }*/
      $('#nav').affix({
       offset: {
-        top: $('topbanner').height()-$('#nav').height()
-      }
-    }); 
+        top: $('header').height()-$('#nav').height()
+        }
+      }); 
+    }
   },
   // Home page
   home: {
