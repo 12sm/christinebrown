@@ -148,10 +148,6 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 
-
-.affix,.affix-top {
-   position:static;
-   }
 }
 
 /* Medium devices (desktops, 992px and up) */
