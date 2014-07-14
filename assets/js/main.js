@@ -65,14 +65,14 @@ var UTIL = {
     $.each(document.body.className.replace(/-/g, '_').split(/\s+/),function(i,classnm) {
       UTIL.fire(classnm);
     });
-  }
-};
 
 $('#nav').affix({
       offset: {
         top: 250
       }
 }); 
+  }
+};
 
 $(document).ready(UTIL.loadEvents);
 
