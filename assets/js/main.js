@@ -24,7 +24,7 @@ var Roots = {
     init: function() {
       // JavaScript to be fired on all pages
         //console.log('common page is firing');
-    /*$('#signup').bind('touchstart', function(e) {
+    $('#signup').bind('touchstart', function(e) {
         $(this).toggleClass('hover_effect');    
     });
     if ($(window).width() <= 768){
@@ -32,12 +32,6 @@ var Roots = {
       } else {
        $.backstretch('../assets/img/bg.jpg');
     }
-     }*/
-     $('#nav').affix({
-    offset: {
-      top: 100
-    }
-  })
     }
   },
   // Home page
