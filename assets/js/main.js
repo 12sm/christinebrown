@@ -33,11 +33,6 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
     }
      }*/
-$('#nav').affix({
-      offset: {
-        top: $('header').height()-$('#nav').height()
-      }
-}); 
     }
   },
   // Home page
@@ -74,6 +69,12 @@ var UTIL = {
 };
 
 $(document).ready(UTIL.loadEvents);
+
+$('#nav').affix({
+      offset: {
+        top: $('header').height()-$('#nav').height()
+      }
+}); 
 
 })(jQuery); // Fully reference jQuery after this point.
 
