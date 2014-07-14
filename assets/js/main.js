@@ -68,13 +68,15 @@ var UTIL = {
   }
 };
 
-$(document).ready(UTIL.loadEvents);
-
 $('#nav').affix({
       offset: {
         top: 250
       }
 }); 
+
+$(document).ready(UTIL.loadEvents);
+
+
 
 })(jQuery); // Fully reference jQuery after this point.
 
