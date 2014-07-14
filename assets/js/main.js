@@ -33,6 +33,14 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
     }
      }*/
+     $('#nav').affix({
+    offset: {
+      top: 100
+    , bottom: function () {
+        return (this.bottom = $('.footer').outerHeight(true))
+      }
+    }
+  })
     }
   },
   // Home page
@@ -65,12 +73,6 @@ var UTIL = {
     $.each(document.body.className.replace(/-/g, '_').split(/\s+/),function(i,classnm) {
       UTIL.fire(classnm);
     });
-
-$('#nav').affix({
-      offset: {
-        top: 250
-      }
-}); 
   }
 };
 
