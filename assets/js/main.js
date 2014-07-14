@@ -72,7 +72,7 @@ $(document).ready(UTIL.loadEvents);
 
 $('#nav').affix({
       offset: {
-        top: $('header').height()-$('#nav').height()
+        top: 250
       }
 }); 
 
