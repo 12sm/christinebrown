@@ -35,9 +35,9 @@ var Roots = {
      }*/
 $('#nav').affix({
       offset: {
-        top: $('header').height()
+        top: $('header').height()-$('#nav').height()
       }
-});  
+}); 
     }
   },
   // Home page
