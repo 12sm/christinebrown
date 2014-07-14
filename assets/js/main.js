@@ -23,7 +23,7 @@ var Roots = {
   common: {
     init: function() {
       // JavaScript to be fired on all pages
-        console.log('common page is firing');
+        //console.log('common page is firing');
     /*$('#signup').bind('touchstart', function(e) {
         $(this).toggleClass('hover_effect');    
     });
