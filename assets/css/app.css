@@ -92,6 +92,10 @@ header {
 /* ==========================================================================
    Footer
    ========================================================================== */
+footer {
+   padding: 20%;
+   background-color:rgba(255,255,255,0.3); 
+}
 
 .content-info { }
 
@@ -139,6 +143,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
     font-weight:700;
     text-transform:uppercase;
     border-width:0;
+    padding: 7px, 0;
 }
 .navbar-custom  .navbar-nav>li>a {
    color: #ddd;
