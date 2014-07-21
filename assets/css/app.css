@@ -94,7 +94,7 @@ header {
    ========================================================================== */
 footer {
    padding: 20%;
-   background-color:rgba(255,255,255,0.3); 
+   background-color:rgba(255,255,255,0.1); 
 }
 
 .content-info { }
@@ -102,6 +102,11 @@ footer {
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
+
+.credits {
+   text-align: right;
+   background-color:rgba(255,255,255,0.2); 
+}
 
 
 
