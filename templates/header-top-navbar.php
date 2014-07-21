@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-6">
     <div class="logo"> 
-    <a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+    <!--<a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>-->
     </div>
     </div>
   </div>
