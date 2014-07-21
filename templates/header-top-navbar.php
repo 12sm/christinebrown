@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-12">
     <div class="logo">
-    <a href="<?php echo home_url(); ?>/"><img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/bg.jpg"</img></a>
+    <a href="<?php echo home_url(); ?>/"><img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/cblogo.jpg"</img></a>
     </div>
     </div>
   </div>
