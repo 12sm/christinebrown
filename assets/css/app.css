@@ -10,8 +10,10 @@
 body { 
    background-color: #990066;
 }
-.navbar-container {}
 
+p {
+   color: #FFFFFF;
+}
 
 
 /* ==========================================================================
@@ -119,6 +121,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .navbar-nav {
   margin: 1px 1px; 
 }  
+
+.navbar-nav li {
+    text-align: center;
+}
   
 /* customize nav style */
 .navbar-custom {
