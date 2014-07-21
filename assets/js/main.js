@@ -30,7 +30,7 @@ var Roots = {
     if ($(window).width() <= 768){
        $.backstretch('../assets/img/bg.jpg');
       } else {
-       $.backstretch('../assets/img/bg.jpg');
+       $.backstretch('http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/bg.jpg');
     }
     }
   },
