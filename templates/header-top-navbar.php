@@ -1,7 +1,7 @@
 <header class="masthead" role="banner">
   <div class="container">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-12">
     <div class="logo"> 
     <!--<a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>-->
     </div>
