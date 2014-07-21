@@ -2,7 +2,7 @@
   <div class="container">
   <div class="row">
     <div class="col-md-6">
-    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+    <a class="logo" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
     </div>
   </div>
   </div>
