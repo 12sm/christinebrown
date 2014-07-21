@@ -103,9 +103,13 @@ footer {
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
 
+.bottomrow {
+      padding: 20px, 0;
+      background-color:rgba(255,255,255,0.2); 
+}
+
 .credits {
    text-align: right;
-   background-color:rgba(255,255,255,0.2); 
 }
 
 
