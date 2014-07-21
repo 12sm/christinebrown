@@ -2,7 +2,9 @@
   <div class="container">
   <div class="row">
     <div class="col-md-6">
-    <a class="logo" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+    <div class="logo"> 
+    <a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+    </div>
     </div>
   </div>
   </div>
