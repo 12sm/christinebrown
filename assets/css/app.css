@@ -8,7 +8,7 @@
    ========================================================================== */
 
 body { 
-   background-color: #000;
+   background-color: #990066;
 }
 .navbar-container {}
 
@@ -23,7 +23,7 @@ header {
 
 .banner { }
 .masthead { 
-   background-color: #6d4;
+   background-color: #AD3385;
    }
 
 #nav {
@@ -122,7 +122,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   
 /* customize nav style */
 .navbar-custom {
-    background-color:rgba(255,255,255,0.5);
+    background-color:rgba(255,255,255,0.3);
     font-weight:700;
     text-transform:uppercase;
     border-width:0;
