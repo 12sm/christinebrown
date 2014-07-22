@@ -164,6 +164,17 @@ footer {
    text-transform: uppercase; 
 }
 
+.panreadmore > a {
+   text-decoration: none;
+   text-transform: uppercase;
+   color: #990066;
+   padding: 0 5px;
+   background-color: rgb(255,255,255);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px; 
+}
+
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
@@ -282,13 +293,18 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    color: #444;
 }
 
+.panreadmore > a:hover {
+   color: #444;
+   float: right;
+}
+
 .signup{
     float: left;
     display: block;
 }
 
 .pandorawrapper {
-    width: 900px;
+    width: 900 px;
     overflow: hidden;
     display:block;
     margin:auto;
