@@ -26,7 +26,7 @@
   </div>
   <div class="col-lg-12 linkswrapper">
     <div class="row">
-      <div class="col-xs-6 social-nav">
+      <div class="col-xs-5 social-nav">
         <div id="social-float" class="row social-nav">
           <h6>Find Christine On</h6> 
           <ul id="menu-social-navigation" class="">
@@ -37,7 +37,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-xs-6 stores-nav">
+      <div class="col-xs-5 stores-nav">
         <div id="social-float" class="row">
           <h6>Download Music From</h6> 
           <ul id="menu-social-navigation" class="">
