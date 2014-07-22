@@ -371,7 +371,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .social-nav {
-   left: 0px !important;
+   float: left;
 }
 
 #social-float>ul {
@@ -383,7 +383,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .stores-nav {
-   right: 0px !important;
+   float: right;
 }
 
 #stores-float>ul {
