@@ -243,6 +243,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    padding: 15px 0;
 }
 
+.navcontainer {
+   max-width: 900px;
+}
+
 .navbar-nav.nav-justified > li{
       float:none;
   }
@@ -250,17 +254,16 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   margin: 1px 1px; 
 }  
 
-.navbar-custom li {
-    text-align: center;
-}
-  
-/* customize nav style */
 .navbar-custom {
     background-color:rgba(255,255,255,0.3);
     font-weight:700;
     text-transform:uppercase;
     border-width:0;   
 }
+.navbar-custom li {
+    text-align: center;
+}
+
 .navbar-custom  .navbar-nav>li>a {
    color: #FFF;
    font-size: 18px;
