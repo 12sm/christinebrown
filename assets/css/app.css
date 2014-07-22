@@ -10,6 +10,7 @@
 body { 
    background-color: #990066;
    background-image: url("../img/bg.jpg")
+   background-repeat:repeat-y;
 }
 
 p {
