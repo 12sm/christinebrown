@@ -22,7 +22,7 @@
     <div class="col-xs-8 signup-row">
     <div class="signup">
     <div id="mc_embed_signup">
-      <form action="http://christinebrownpiano.us6.list-manage.com/subscribe/post?u=e8eddda6386725bbc2074242b&amp;id=994868238f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""> <label for="mce-EMAIL"><h3>Sign up for the newsletter here</h3></label>
+      <form action="http://christinebrownpiano.us6.list-manage.com/subscribe/post?u=e8eddda6386725bbc2074242b&amp;id=994868238f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""> <label for="mce-EMAIL"><h3>Sign up for the e-mail newsletter here</h3></label>
       <!--<div class="input-container">--> 
         <input value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="" type="email"> <input value="Signup" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
       <!--</div>-->
