@@ -19,9 +19,8 @@
       </div>      
     </div>
   </div>
-  <div class="col-lg-12">
+  <div class="col-lg-12 bottomrow">
     <div class="row">
-      <div class="bottomrow">
         <div class="col-xs-8">
           <div class="signup">
             <div id="mc_embed_signup">
@@ -40,7 +39,6 @@
         </div>
       </div>
     </div>
-  </div>
 </footer>
 
 <?php wp_footer(); ?>
