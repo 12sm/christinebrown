@@ -269,9 +269,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    font-size: 18px;
    text-shadow: 2px 2px 2px rgba(10, 10, 10, .5);
 }
+
 .navbar-custom  .navbar-nav li>a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a  {
    font-weight: 900;
+   background: none;
 }
+
 .navbar-custom .dropdown-menu{
    right:0;
 }
