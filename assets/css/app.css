@@ -292,12 +292,6 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .readmore > a:hover {
    color: #444;
 }
-
-.panreadmore > a:hover {
-   color: #444;
-   float: right;
-}
-
 .signup{
     float: left;
     display: block;
@@ -315,6 +309,15 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
       float: left;
       margin: 0 5px 0  0;
 }
+
+.panreadmore > a {
+   float:right;
+}
+
+.panreadmore > a:hover {
+   color: #444;
+}
+
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) { }
