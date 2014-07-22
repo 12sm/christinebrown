@@ -13,7 +13,7 @@
     <div class="row">
       <div class="pandorawrapper">  
       <div class="pandora">
-        <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img>
+        <img class="img-responsive" src="/assets/img/pandora.png"</img>
       </div>
       <div class="pandoratext"> 
         Create a Pandora station with Christine's music!
@@ -27,7 +27,7 @@
   <div class="col-lg-12 linkswrapper">
     <div class="row">
       <div class="col-xs-5 social-nav">
-        <div id="social-float" class="row social-nav">
+        <div id="social-float" class="row">
           <h6>Find Christine On</h6> 
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://www.facebook.com/christinebrownpiano" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
@@ -49,6 +49,16 @@
       </div>
     </div>
   </div>     
+  <div class="col-lg-12 sponswrapper">
+    <div class="row">
+      <div class="col-xs-5 sponstext">
+      Christine is proud to be a Kawai artist!
+      </div>
+      <div class="col-xs-5 sponslogo">
+        <img class="img-responsive" src="/assets/img/kawai.png"> 
+      </div>
+    </div>
+  </div>    
   <div class="col-lg-12 bottomrow">
     <div class="row">
         <div class="col-xs-8">

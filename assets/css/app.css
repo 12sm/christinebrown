@@ -253,6 +253,20 @@ color: #99CCFF!important;
    border: 0; 
 }
 
+.sponslogo {
+   height: 70px;
+   max-width: 375px;
+}
+
+.sponstext {
+   max-width: 450px;
+   overflow: hidden;
+   font-size: 18px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-transform: uppercase; 
+}
+
 .credits {
    text-align: right;
 }
@@ -398,6 +412,15 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    display: block;
    list-style: none;
 }
+
+.sponswrapper {
+    width: 900px;
+    overflow: hidden;
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
 
 
 /* Medium devices (desktops, 992px and up) */
