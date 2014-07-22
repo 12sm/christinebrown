@@ -34,7 +34,7 @@ header {
     margin-right: auto;
     }
 
-.feature {
+.featured {
    text-align: center;
 }
 
@@ -42,7 +42,7 @@ header {
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
-   padding: 5px 2px;
+   padding: 0 5px;
    background-color: rgb(255,255,255);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
