@@ -17,12 +17,14 @@ p {
 
 h1 {
    font-size: 30px;
+   font-weight: 700;
    color: #FFF !important;
    text-transform: uppercase;
 }
 
 h2 {
-   font-size: 20px;
+   font-size: 18px;
+   font-weight: 700;
    color: #FFF !important;
    text-transform: uppercase;  
 }
@@ -179,9 +181,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
     text-transform:uppercase;
     border-width:0;
     padding: 7px, 0;
+    
 }
 .navbar-custom  .navbar-nav>li>a {
-   color: #ddd;
+   color: #FFF;
+   font-size: 18px;
+   text-shadow: 2px 2px 2px rgba(150, 150, 150, 0.75);
 }
 .navbar-custom  .navbar-nav li>a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a  {
    background-color: #000;
