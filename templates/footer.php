@@ -28,6 +28,7 @@
     <div class="row">
       <div class="col-xs-6">
         <div id="social-float" class="row social-nav">
+          <h6>Find Christine On</h6> 
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://www.facebook.com/christinebrownpiano" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
           <li class="menu-"><a href="https://twitter.com/pianochristineb" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>

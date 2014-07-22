@@ -37,6 +37,11 @@ h3 {
    text-shadow: 2px 2px 2px rgba(10, 10, 10, .5);  
 }
 
+h6 {
+   font-size: 18px;
+   color: #FFF !important;  
+}
+
 
 /* ==========================================================================
    Header
@@ -364,7 +369,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
     padding-bottom: 20px;
 }
 
-#social-float>ul{
+.social-nav {
+   left: 100px;
+}
+
+#social-float>ul {
    float: left;
    margin-top: 25px;
    left: 0px;
@@ -372,6 +381,8 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    display: block;
    list-style: none;
 }
+
+
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) { }
