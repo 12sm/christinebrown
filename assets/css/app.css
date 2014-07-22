@@ -222,9 +222,8 @@ color: #99CCFF!important;
 }
 
 .bottomrow {
-      padding: 20px, 0;
       background-color:rgba(255,255,255,0.2); 
-      bottom: -300px;
+      bottom: -25px;
 }
 
 #mc_embed_signup {
