@@ -169,7 +169,8 @@ footer {
    height: 20px;
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
-   border-radius: 20px;   
+   border-radius: 20px;
+   border: 0;   
 }
 
 #mc-embedded-subscribe {
@@ -180,7 +181,8 @@ footer {
    background-color: rgb(255,255,255);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
-   border-radius: 20px; 
+   border-radius: 20px;
+   border: 0; 
 }
 
 .credits {
