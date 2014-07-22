@@ -216,6 +216,11 @@ color: #99CCFF!important;
    list-style: none;
 }
 
+.img-link {
+   height: 2em;
+   max-width: 100%
+}
+
 .bottomrow {
       padding: 20px, 0;
       background-color:rgba(255,255,255,0.2); 
