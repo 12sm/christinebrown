@@ -210,6 +210,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    text-align: left !important;
 }
 
+.homefeature {
+   padding: 10%;
+}
+
 }
 
 /* Medium devices (desktops, 992px and up) */
