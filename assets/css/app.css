@@ -208,13 +208,10 @@ color: #99CCFF!important;
    color: #fff;
 }
 #social-float>ul{
-   float: right;
-   position: relative;
    right: 50%;
    margin-right: -150px;
-   margin-top: 65px;
+   margin-top: 20px;
    bottom: 5px;
-   padding: 10px 0px 5px 12px;
    display: block;
    list-style: none;
 }
@@ -365,12 +362,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .linkswrapper {
-    width: 1000px;
-    overflow: hidden;
-    display:block;
-    margin:auto;
-    padding-bottom: 20px;
-    float: none;
+   max-width: 1200px;
+   overflow: hidden;
+   display: block;
+   margin: auto;
+   padding: 60px 0 0 0;
+   float: none;
 }
 
 .social-nav {
