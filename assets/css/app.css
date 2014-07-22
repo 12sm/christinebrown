@@ -45,12 +45,12 @@ h6 {
 }
 
 a {
-    color: #CCC !important;
+    color: #CCC;
     text-decoration: none;
 }
 
 a:hover, a:focus {
-    color: #990066;
+    color: #990066 !important;
     text-decoration: none;
 }
 
