@@ -444,6 +444,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .newsinfo {
    vertical-align: middle;
+   height: 400px;
 }
 
 }
