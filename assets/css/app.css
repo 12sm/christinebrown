@@ -85,7 +85,13 @@ header {
 
 .content { }
 
+.swirltop {
+   background-image: url("../assets/img/fil-up.png");
+}
 
+.swirlbottom {
+   background-image: url("../assets/img/fil-down.png");
+}
 
 /* ==========================================================================
    Primary Content
