@@ -12,7 +12,7 @@
     </div>
   
    <div class="pandora">
-    <img 
+    <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img>
    </div>      
 
       <div id="social" class="row social-nav">
