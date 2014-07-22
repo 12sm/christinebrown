@@ -13,15 +13,14 @@
   
    <div class="pandora">
     <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img> <h2><justify>Create a Pandora station with Christine's music!<justify></h2> 
-    <div class="readmore"
+    <div class="readmore">
     <a href="http://www.pandora.com">Click here!</a>
     </div>
    </div>      
 
-
+  <div class="bottomrow">
   <div class="col-lg-12">
   <div class="row">
-  <div class="bottomrow">
     <div class="col-xs-8">
     <div class="signup">
     <div id="mc_embed_signup">
