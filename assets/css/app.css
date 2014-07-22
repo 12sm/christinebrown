@@ -16,14 +16,14 @@ p {
 }
 
 h1 {
-   size: 30px
-   color: #FFFFFF;
+   font-size: 30px
+   color: #FFFFFF !important;
    text-transform: uppercase;
 }
 
 h2 {
-   size: 20px
-   color: #FFFFFF;
+   font-size: 20px
+   color: #FFFFFF !important;
    text-transform: uppercase;  
 }
 
