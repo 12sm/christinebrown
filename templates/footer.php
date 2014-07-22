@@ -18,6 +18,8 @@
      endif;
   ?>
   </div>
+  <div class="col-lg-12">
+  <div class="row">
   <div class="bottomrow">
     <div class="col-xs-8">
     <div class="signup">
@@ -35,6 +37,8 @@
       <div class="col-xs-4 credits"><p><center>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></center></p>
       </div>
     </div>
+  </div>
+  </div>
   </div>
 </footer>
 
