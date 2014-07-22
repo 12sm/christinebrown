@@ -173,7 +173,7 @@ footer {
    border: 0;   
 }
 
-#mc-embedded-subscribe > a {
+#mc-embedded-subscribe {
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
@@ -265,10 +265,6 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .readmore > a:hover {
    color: #444;
-}
-
-#mc-embedded-subscribe > a:hover {
-   color: #444; 
 }
 
 .signup{
