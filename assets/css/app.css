@@ -255,16 +255,15 @@ color: #99CCFF!important;
 
 .sponslogo {
    height: 70px;
-   max-width: 375px;
 }
 
 .sponstext {
-   max-width: 450px;
-   overflow: hidden;
    font-size: 18px;
    font-weight: 700;
    color: #FFF !important;
-   text-transform: uppercase; 
+   text-transform: uppercase;
+   text-align: center;
+   padding: 20px 0 0 0;
 }
 
 .credits {
@@ -414,11 +413,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .sponswrapper {
-    width: 900px;
-    overflow: hidden;
-    display: block;
-    margin: auto;
-    padding-bottom: 20px;
+   width: 900px;
+   display: block;
+   margin: auto;
+   padding: 90px 0;
+   float: none;
 }
 
 
