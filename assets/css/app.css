@@ -50,7 +50,7 @@ header {
    background-color: #AD3385;
    }
 .logo {
-    height: 200px;
+    height: 180px;
     max-width: 634px;   
     margin-left: auto;
     margin-right: auto;
@@ -155,6 +155,7 @@ footer {
    max-width: 374px;
    display:block;
    margin:auto;
+   padding-bottom: 20px;
 }
 
 #social ul {margin:0px; padding:0px; list-style: none;}
