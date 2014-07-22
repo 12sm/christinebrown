@@ -87,13 +87,13 @@ header {
 
 .swirltop {
    height: 74px;
-   max-width: 211px 
+   max-width: 211px; 
    background-image: url("../img/fil-up.png");
 }
 
 .swirlbottom {
    height: 74px;
-   max-width: 211px 
+   max-width: 211px; 
    background-image: url("../img/fil-down.png");
 }
 
