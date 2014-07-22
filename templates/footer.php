@@ -39,7 +39,7 @@
       </div>
       <div class="col-xs-6 stores-nav">
         <div id="social-float" class="row social-nav">
-          <h6>Find Christine On</h6> 
+          <h6>Download Music From</h6> 
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://itunes.apple.com/artist/christine-brown/id28052587?forceArtistPage=1" target="_blank"><img src="/assets/img/apple.png" onmouseover="this.src='/assets/img/apple-active.png'" onmouseout="this.src='/assets/img/apple.png'"></a></i></a></li>
           <li class="menu-"><a href="http://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith" target="_blank"><img src="/assets/img/spotify.png" onmouseover="this.src='/assets/img/spotify-active.png'" onmouseout="this.src='/assets/img/spotify.png'"></a></i></a></li>
