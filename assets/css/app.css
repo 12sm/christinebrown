@@ -291,6 +291,7 @@ color: #99CCFF!important;
    text-align: right;
 }
 
+}
 
 
 
@@ -441,7 +442,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    float: none;
 }
 
+.newsinfo {
+   vertical-align: middle;
+}
 
+}
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) { }
