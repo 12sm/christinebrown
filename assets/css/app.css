@@ -122,7 +122,7 @@ header {
    Footer
    ========================================================================== */
 footer {
-   padding: 20%;
+   padding: 5% 0 5%;
    background-color:rgba(255,255,255,0.1); 
 }
 
@@ -211,7 +211,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .homefeature {
-   padding: 10%;
+   padding: 5% 10% 30%;
 }
 
 }
