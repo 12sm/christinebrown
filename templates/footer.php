@@ -12,16 +12,13 @@
     </div>
   
    <div class="pandora">
-    <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img>
+    <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img> <h2><justify>Create a Pandora station with Christine's music!<justify></h2> 
+    <div class="readmore"
+    <a href="http://www.pandora.com">Click here!</a>
+    </div>
    </div>      
 
-      <div id="social" class="row social-nav">
-  <?php
-     if (has_nav_menu('social_navigation')) :
-       wp_nav_menu(array('theme_location' => 'social_navigation', 'menu_class' => ''));
-     endif;
-  ?>
-  </div>
+
   <div class="col-lg-12">
   <div class="row">
   <div class="bottomrow">
