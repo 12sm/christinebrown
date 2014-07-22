@@ -52,7 +52,7 @@ header {
    text-align: center;
 }
 
-.readmore a {
+.readmore > a {
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
@@ -212,6 +212,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .homefeature {
    padding: 5% 10% 30%;
+}
+
+.readmore > a:hover {
+   color: #444;
 }
 
 }
