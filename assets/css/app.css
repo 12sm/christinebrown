@@ -39,7 +39,9 @@ h3 {
 
 h6 {
    font-size: 18px;
-   color: #FFF !important;  
+   color: #FFF !important;
+   text-align: center;
+        
 }
 
 
@@ -370,14 +372,14 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .social-nav {
+   margin: 10px 0;
    left: 100px;
 }
 
 #social-float>ul {
    float: left;
-   margin-top: 25px;
+   margin-top: 5px;
    left: 0px;
-   padding: 10px 0px 5px 12px;
    display: block;
    list-style: none;
 }
