@@ -33,7 +33,7 @@ h2 {
    Header
    ========================================================================== */
 header {
-      height: 450px;
+      height: 410px;
 }
 
 .banner { }
@@ -41,7 +41,7 @@ header {
    background-color: #AD3385;
    }
 .logo {
-    height: 264px;
+    height: 200px;
     max-width: 634px;   
     margin-left: auto;
     margin-right: auto;
@@ -180,8 +180,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
     font-weight:700;
     text-transform:uppercase;
     border-width:0;
-    padding: 7px, 0;
-    
+    padding: 15px, 0;    
 }
 .navbar-custom  .navbar-nav>li>a {
    color: #FFF;
