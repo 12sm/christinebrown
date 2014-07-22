@@ -1,4 +1,4 @@
-<footer class="content-info container" role="contentinfo">
+<footer class="content-info container-fluid" role="contentinfo">
     <div class="col-lg-12">
       <div class="row sidebar-footer">
       	<?php dynamic_sidebar('sidebar-footer'); ?>
@@ -12,8 +12,9 @@
     </div>
   
    <div class="pandora">
+    <img 
    </div>      
-   
+
       <div id="social" class="row social-nav">
   <?php
      if (has_nav_menu('social_navigation')) :
