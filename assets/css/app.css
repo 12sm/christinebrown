@@ -157,7 +157,11 @@ footer {
 
 .pandoratext {
    max-width: 425px;
-   overflow: hidden; 
+   overflow: hidden;
+   font-size: 18px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-transform: uppercase; 
 }
 
 #social ul {margin:0px; padding:0px; list-style: none;}

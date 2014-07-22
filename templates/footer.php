@@ -16,7 +16,7 @@
         <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img>
       </div>
       <div class="pandoratext"> 
-      <h2>Create a Pandora station with Christine's music!</h2>
+        Create a Pandora station with Christine's music!
       <div class="readmore">
           <a href="http://www.pandora.com">Click here!</a>
       </div>      
