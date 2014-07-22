@@ -167,13 +167,13 @@ footer {
 #mce-EMAIL {
    width: 250px;
    height: 20px;
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
    border: 0;   
 }
 
-#mc-embedded-subscribe {
+#mc-embedded-subscribe > a {
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
@@ -267,7 +267,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    color: #444;
 }
 
-#mc-embedded-subscribe {
+#mc-embedded-subscribe > a:hover {
    color: #444; 
 }
 

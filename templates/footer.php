@@ -24,7 +24,7 @@
     <div id="mc_embed_signup">
       <form action="http://christinebrownpiano.us6.list-manage.com/subscribe/post?u=e8eddda6386725bbc2074242b&amp;id=994868238f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""> <label for="mce-EMAIL"><h3>Sign up for the e-mail newsletter here</h3></label>
       <!--<div class="input-container">--> 
-        <input value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="" type="email"> <input value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
+        <input value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder=" E-MAIL ADDRESS HERE" required="" type="email"> <input value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
       <!--</div>-->
       <div style="position: absolute; left: -5000px;"> <input name="b_e8eddda6386725bbc2074242b_994868238f" value="" type="text">
       </div>
