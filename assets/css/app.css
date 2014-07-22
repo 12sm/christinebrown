@@ -47,6 +47,7 @@ h6 {
 a {
     color: #CCC;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 a:hover, a:focus {
