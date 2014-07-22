@@ -38,7 +38,7 @@ header {
    text-align: center;
 }
 
-.readmore {
+.readmore a {
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
