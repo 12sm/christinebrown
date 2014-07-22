@@ -38,7 +38,7 @@
     </div>             
    </div>
    </div>         
-      <div class="col-xs-4 credits"><p><center>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</a></center></p>
+      <div class="col-xs-4 credits"><h3><center>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</h3></center></p>
       </div>
     </div>
   </div>
