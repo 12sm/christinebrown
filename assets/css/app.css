@@ -152,10 +152,12 @@ footer {
 
 .pandora {
    height: 70px;
-   max-width: 374px;
-   display:block;
-   margin:auto;
-   padding-bottom: 20px;
+   max-width: 375px;
+}
+
+.pandoratext {
+   max-width: 425px;
+   overflow: hidden; 
 }
 
 #social ul {margin:0px; padding:0px; list-style: none;}
@@ -281,6 +283,16 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
     display: block;
 }
 
+.pandorawrapper {
+    width: 800px;
+    overflow: hidden;
+    display:block;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
+.pandora {
+      float: left;
 }
 
 /* Medium devices (desktops, 992px and up) */

@@ -10,14 +10,18 @@
          endif;
         ?>
       </div>
-    <div class="row">  
+    <div class="row">
+      <div class="pandorawrapper">  
       <div class="pandora">
         <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img>
-      </div> 
-      Create a Pandora station with Christine's music!
+      </div>
+      <div class="pandoratext"> 
+      <h2>Create a Pandora station with Christine's music!</h2>
       <div class="readmore">
           <a href="http://www.pandora.com">Click here!</a>
       </div>      
+      </div>
+      </div>
     </div>
   </div>
   <div class="col-lg-12 bottomrow">
