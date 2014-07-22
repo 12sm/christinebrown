@@ -156,7 +156,7 @@ footer {
 }
 
 .pandoratext {
-   max-width: 425px;
+   max-width: 450px;
    overflow: hidden;
    font-size: 18px;
    font-weight: 700;
@@ -288,7 +288,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .pandorawrapper {
-    width: 800px;
+    width: 900px;
     overflow: hidden;
     display:block;
     margin:auto;
@@ -297,7 +297,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .pandora {
       float: left;
-      margin: 0, 5px, 0  0;
+      margin: 0 5px 0  0;
 }
 
 /* Medium devices (desktops, 992px and up) */
