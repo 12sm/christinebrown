@@ -172,6 +172,17 @@ footer {
    border-radius: 20px;   
 }
 
+#mc-embedded-subscribe {
+   text-decoration: none;
+   text-transform: uppercase;
+   color: #990066;
+   padding: 0 5px;
+   background-color: rgb(255,255,255);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px; 
+}
+
 .credits {
    text-align: right;
 }
@@ -252,6 +263,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .readmore > a:hover {
    color: #444;
+}
+
+#mc-embedded-subscribe {
+   color: #444; 
 }
 
 .signup{
