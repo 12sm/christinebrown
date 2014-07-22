@@ -15,6 +15,17 @@ p {
    color: #FFFFFF;
 }
 
+h1 {
+   size: 30px
+   color: #FFFFFF;
+   text-transform: uppercase;
+}
+
+h2 {
+   size: 20px
+   color: #FFFFFF;
+   text-transform: uppercase;  
+}
 
 /* ==========================================================================
    Header
