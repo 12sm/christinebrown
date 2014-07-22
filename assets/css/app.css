@@ -44,6 +44,10 @@ h6 {
         
 }
 
+a {
+    color: #CCC !important;
+    text-decoration: none;
+}
 
 /* ==========================================================================
    Header
@@ -223,7 +227,7 @@ color: #99CCFF!important;
 
 .bottomrow {
       background-color:rgba(255,255,255,0.2); 
-      bottom: -25px;
+      bottom: 0px;
 }
 
 #mc_embed_signup {
