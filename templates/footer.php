@@ -26,7 +26,7 @@
   </div>
   <div class="col-lg-12 linkswrapper">
     <div class="row">
-      <div class="col-xs-6">
+      <div class="col-xs-6 social-nav">
         <div id="social-float" class="row social-nav">
           <h6>Find Christine On</h6> 
           <ul id="menu-social-navigation" class="">
@@ -34,8 +34,17 @@
           <li class="menu-"><a href="https://twitter.com/pianochristineb" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
           <li class="menu-"><a href="https://www.youtube.com/channel/UC7HsnfpQ5pXDbTbiS35q-sQ" target="_blank"><i class="fa fa-youtube-play fa-2x"></i></a></li>
           <li class="menu-"><a href="http://www.solopianoradio.com/" target="_blank"><img src="/assets/img/whisperings.png" onmouseover="this.src='/assets/img/whisperings-active.png'" onmouseout="this.src='/assets/img/whisperings.png'"></a></i></a></li>
-          <li class="menu-"><a href="http://smarturl.it/usagain" target="_blank"><img src="/assets/img/itunes.png" onmouseover="this.src='/assets/img/itunes-active.png'" onmouseout="this.src='/assets/img/itunes.png'"></a></i></a></li>
           </ul>
+        </div>
+      </div>
+      <div class="col-xs-6 stores-nav">
+        <div id="social-float" class="row social-nav">
+          <h6>Find Christine On</h6> 
+          <ul id="menu-social-navigation" class="">
+          <li class="menu-"><a href="https://itunes.apple.com/artist/christine-brown/id28052587?forceArtistPage=1" target="_blank"><img src="/assets/img/apple.png" onmouseover="this.src='/assets/img/apple-active.png'" onmouseout="this.src='/assets/img/apple.png'"></a></i></a></li>
+          <li class="menu-"><a href="http://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith" target="_blank"><img src="/assets/img/spotify.png" onmouseover="this.src='/assets/img/spotify-active.png'" onmouseout="this.src='/assets/img/spotify.png'"></a></i></a></li>
+          <li class="menu-"><a href="http://www.amazon.com/Christine-Brown/e/B000APG4SW/ref=ntt_mus_dp_pel" target="_blank"><img src="/assets/img/amazon.png" onmouseover="this.src='/assets/img/amazon-active.png'" onmouseout="this.src='/assets/img/amazon.png'"></a></i></a></li>
+          <li class="menu-"><a href="http://www.cdbaby.com/artist/christinebrown" target="_blank"><img src="/assets/img/cdbaby.png" onmouseover="this.src='/assets/img/cdbaby-active.png'" onmouseout="this.src='/assets/img/cdbaby.png'"></a></i></a></li>
         </div>
       </div>
     </div>
