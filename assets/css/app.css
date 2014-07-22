@@ -151,10 +151,10 @@ footer {
 .content-info { }
 
 .pandora {
-   height: 374px;
-   max-width: 100%;
-   margin-left: auto;
-   margin-right: auto;
+   height: 70px;
+   max-width: 374px;
+   display:block;
+   margin:auto;
 }
 
 #social ul {margin:0px; padding:0px; list-style: none;}
