@@ -12,7 +12,7 @@
       </div>
     <div class="row">  
       <div class="pandora">
-        <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img> <h2><justify>Create a Pandora station with Christine's music!<justify></h2> 
+        <img class="img-responsive" src="http://christinebrownpiano.12southdev.com/wp-content/themes/christinebrown/assets/img/pandora.png"</img> Create a Pandora station with Christine's music!
         <div class="readmore">
           <a href="http://www.pandora.com">Click here!</a>
         </div>

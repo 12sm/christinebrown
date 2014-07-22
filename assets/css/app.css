@@ -165,7 +165,7 @@ footer {
 .bottomrow {
       padding: 20px, 0;
       background-color:rgba(255,255,255,0.2); 
-      bottom: 0px;
+      bottom: -300px;
 }
 
 #mc_embed_signup {
