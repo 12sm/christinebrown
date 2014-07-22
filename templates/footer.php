@@ -17,7 +17,7 @@
       </div>
       <div class="pandoratext"> 
         Create a Pandora station with Christine's music!
-      <div class="readmore">
+      <div class="panreadmore">
           <a href="http://www.pandora.com">Click here!</a>
       </div>      
       </div>
