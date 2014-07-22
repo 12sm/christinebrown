@@ -167,9 +167,9 @@ footer {
 #mce-EMAIL {
    width: 250px;
    height: 20px;
-   -webkit-border-radius: 15px;
-   -moz-border-radius: 15px;
-   border-radius: 15px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
    border: 0;   
 }
 
