@@ -207,7 +207,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .excerpt {
-   text-align: left;
+   text-align: left !important;
 }
 
 }
