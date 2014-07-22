@@ -29,6 +29,14 @@ h2 {
    text-transform: uppercase;  
 }
 
+h3 {
+   font-size: 14px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-transform: uppercase;
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .5);  
+}
+
 
 /* ==========================================================================
    Header
@@ -156,7 +164,7 @@ footer {
     clear: none !important;
 }
 
-.#mce-EMAIL {
+#mce-EMAIL {
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;   
