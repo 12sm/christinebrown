@@ -86,11 +86,11 @@ header {
 .content { }
 
 .swirltop {
-   background-image: url("../assets/img/fil-up.png");
+   background-image: url("../img/fil-up.png");
 }
 
 .swirlbottom {
-   background-image: url("../assets/img/fil-down.png");
+   background-image: url("../img/fil-down.png");
 }
 
 /* ==========================================================================
