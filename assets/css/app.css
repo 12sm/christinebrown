@@ -179,6 +179,38 @@ footer {
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
 
+#social-float>ul{
+   display: none;
+}
+  #social-float>ul>li>a>i{
+   color: #fff;
+   text-decoration: none;
+} 
+  
+#social-float>ul>li>a>i:hover {
+color: #99CCFF!important;
+}
+
+ #social-float>#menu-social-navigation > li:nth-child(6){
+   margin-right: 10px;
+  }
+#social-float>#menu-social-navigation>li{
+   float: left;
+   margin-right: 22px;
+   color: #fff;
+}
+#social-float>ul{
+   float: right;
+   position: relative;
+   right: 50%;
+   margin-right: -150px;
+   margin-top: 65px;
+   bottom: 5px;
+   padding: 10px 0px 5px 12px;
+   display: block;
+   list-style: none;
+}
+
 .bottomrow {
       padding: 20px, 0;
       background-color:rgba(255,255,255,0.2); 
@@ -324,6 +356,15 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    color: #444;
 }
 
+#social-float>ul{
+   float: left;
+   margin-top: 25px;
+   position: fixed;
+   left: 0px;
+   padding: 10px 0px 5px 12px;
+   display: block;
+   list-style: none;
+}
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) { }
