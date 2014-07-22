@@ -29,6 +29,7 @@ h2 {
    text-transform: uppercase;  
 }
 
+
 /* ==========================================================================
    Header
    ========================================================================== */
@@ -203,6 +204,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .navbar-toggle {
    outline:0;
+}
+
+.excerpt {
+   text-align: left;
 }
 
 }
