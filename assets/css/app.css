@@ -356,10 +356,17 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    color: #444;
 }
 
+.linkswrapper {
+    width: 1000px;
+    overflow: hidden;
+    display:block;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
 #social-float>ul{
    float: left;
    margin-top: 25px;
-   position: fixed;
    left: 0px;
    padding: 10px 0px 5px 12px;
    display: block;

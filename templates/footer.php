@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-  <div class="col-lg-12 linksrow">
+  <div class="col-lg-12 linkswrapper">
     <div class="row">
       <div class="col-xs-6">
         <div id="social-float" class="row social-nav">
