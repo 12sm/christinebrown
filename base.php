@@ -30,7 +30,7 @@
     </div><!-- /.content -->
   </div><!-- /.wrap -->
 
-  <?php get_template_part('templates/footer'); ?>
-
 </body>
+
+<?php get_template_part('templates/footer'); ?>
 </html>

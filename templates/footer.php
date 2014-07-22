@@ -10,7 +10,10 @@
      endif;
   ?>
     </div>
-         
+  
+   <div class="pandora">
+   </div>      
+   
       <div id="social" class="row social-nav">
   <?php
      if (has_nav_menu('social_navigation')) :
