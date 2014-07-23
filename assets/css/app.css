@@ -8,7 +8,6 @@
    ========================================================================== */
 
 body { 
-   background-color: #990066;
    background-image: url("../img/bg.jpg")
 }
 
@@ -186,6 +185,26 @@ header {
 
 .quotebox p {
   color: #222;
+}
+
+.quotewrapper {
+    width: 100%;
+    overflow: hidden;
+    display:block;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
+.purpbox {
+  width: 10%;
+  background-color: #CC0099;
+  float: left;
+  margin: 0 5px 0  0;
+}
+
+.quoteinfo {
+  font-size: 8px;
+  color: 444;
 }
 
 /* ==========================================================================
