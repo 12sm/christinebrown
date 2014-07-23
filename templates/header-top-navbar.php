@@ -28,7 +28,7 @@
   </div>
   </div>
 </header>
-
+<?php } ?>
 <?php } ?>         
 
 <div id="nav">
