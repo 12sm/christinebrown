@@ -1,3 +1,36 @@
+<?php if(is_front_page()) { 
+
+<header class="masthead" role="banner">
+  <div class="container">
+  <div class="row">
+    <div class="col-md-12">
+    <div class="logo">
+    <a href="<?php echo home_url(); ?>/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>
+    </div>
+    </div>
+  </div>
+  </div>
+</header>
+
+ } else {
+
+<header class="masthead" role="banner">
+  <div class="container">
+  <div class="row">
+    <div class="col-md-12">
+    <div class="logo">
+    <a href="<?php echo home_url(); ?>/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>
+    <div class="featured">
+     echo do_shortcode('[wpv-view name="Featured News"]');
+    </div>
+    </div>
+    </div>
+  </div>
+  </div>
+</header>
+
+ } ?>         
+
 <div id="nav">
 <div class="banner navbar navbar-custom navbar-static-top navbartop">
   <div class="container navcontainer">
