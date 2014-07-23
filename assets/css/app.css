@@ -242,6 +242,13 @@ header {
   padding: 10px;
 }
 
+.albumtopline {
+    width: 900px;
+    overflow: hidden;
+    display:block;
+    margin:auto; 
+}
+
 .albumtitle {
    float: left;
    margin: 0 5px 0  0;
