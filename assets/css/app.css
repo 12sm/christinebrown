@@ -354,7 +354,6 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .navbar-custom  .navbar-nav li>a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a  {
-   font-weight: 900;
    background: none;
 }
 
