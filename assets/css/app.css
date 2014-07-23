@@ -179,7 +179,7 @@ header {
 
 .quotebox {
   background-color: rgba(240, 240, 240, .7);
-  padding: 15px;
+  padding: 20px;
   margin: -40px 0 0;
 
 }
@@ -206,6 +206,10 @@ header {
 .quoteinfo {
   font-size: 10px;
   color: 333;
+}
+
+.wpb_content_element {
+  margin-bottom: 0px !important;
 }
 
 /* ==========================================================================
