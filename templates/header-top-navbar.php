@@ -1,5 +1,5 @@
 <?php if(is_front_page()) { 
-
+echo '
 <header class="masthead" role="banner">
   <div class="container">
   <div class="row">
@@ -11,9 +11,9 @@
   </div>
   </div>
 </header>
-
+'
  } else {
-
+echo '
 <header class="masthead" role="banner">
   <div class="container">
   <div class="row">
@@ -28,7 +28,7 @@
   </div>
   </div>
 </header>
-
+'
  } ?>         
 
 <div id="nav">
