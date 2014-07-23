@@ -13,7 +13,7 @@
     <div class="row">
       <div class="pandorawrapper">  
       <div class="pandora">
-        <img class="img-responsive" src="/assets/img/pandora.png"</img>
+        <img class="img-responsive" src="/assets/img/pandora.png"></img>
       </div>
       <div class="pandoratext"> 
         Create a Pandora station with Christine's music!
@@ -28,7 +28,9 @@
     <div class="row">
       <div class="col-xs-5 social-nav">
         <div id="social-float" class="row">
-          <h6>Find Christine On</h6> 
+          <div id="scripty"> 
+          <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
+          </div> 
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://www.facebook.com/christinebrownpiano" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
           <li class="menu-"><a href="https://twitter.com/pianochristineb" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
@@ -39,7 +41,9 @@
       </div>
       <div class="col-xs-5 stores-nav">
         <div id="social-float" class="row">
-          <h6>Download Music From</h6> 
+          <div id="scripty"> 
+          <img class="img-responsive" src="/assets/img/download-music-from.png"></img>
+          </div> 
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://itunes.apple.com/artist/christine-brown/id28052587?forceArtistPage=1" target="_blank"><img img class="img-link" src="/assets/img/apple.png" onmouseover="this.src='/assets/img/apple-active.png'" onmouseout="this.src='/assets/img/apple.png'"></a></i></a></li>
           <li class="menu-"><a href="http://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith" target="_blank"><img img class="img-link" src="/assets/img/spotify.png" onmouseover="this.src='/assets/img/spotify-active.png'" onmouseout="this.src='/assets/img/spotify.png'"></a></i></a></li>
