@@ -67,7 +67,7 @@ a {
 }
 
 a:hover, a:focus {
-       !important;
+    color: #990066 !important;
     text-decoration: none;
 }
 
