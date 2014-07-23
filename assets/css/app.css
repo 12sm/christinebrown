@@ -48,9 +48,14 @@ h4 {
    text-transform: uppercase;  
 }
 
-h6 {
+h5 {
    font-family: 'Parisienne', cursive;
    font-size: 20px;
+   color: #FFF !important;      
+}
+
+h6 {
+   font-size: 14px;
    color: #FFF !important;      
 }
 
