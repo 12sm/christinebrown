@@ -17,7 +17,7 @@ p {
 }
 
 h1 {
-   font-family: "proxima-nova";
+   font-family: 'proxima-nova';
    font-size: 30px;
    font-weight: 700;
    color: #FFF !important;
@@ -51,9 +51,7 @@ h4 {
 h6 {
    font-family: 'Parisienne', cursive;
    font-size: 20px;
-   color: #FFF !important;
-   text-align: center;
-        
+   color: #FFF !important;      
 }
 
 a {
