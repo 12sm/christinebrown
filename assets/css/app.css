@@ -178,7 +178,7 @@ header {
   background-color: rgba(240, 240, 240, .5);  
 }*/
 
-.quotebox p {
+.quotebox {
   background-color: rgba(240, 240, 240, .5);
   color: #444;
 }
