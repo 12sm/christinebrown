@@ -180,8 +180,6 @@ header {
 .quotebox {
   background-color: rgba(240, 240, 240, .7);
   padding: 20px;
-  margin: -40px 0 0;
-
 }
 
 .quotebox p {
@@ -200,7 +198,7 @@ header {
   padding: 30px 0 18px 30px;
   background-color: #800d53;
   float: left;
-  margin: 0px 5px 0px -15px;
+  margin: 0px 5px 0px -20px;
 }
 
 .quoteinfo {
