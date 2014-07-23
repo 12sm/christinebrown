@@ -33,10 +33,6 @@ var Roots = {
        $.backstretch('../img/bg.jpg');
     }
     }
-    $(document).ready(function() {
-    var addthis_config = {"data_track_addressbar": true};
-    $.getScript("//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c96d1a34c34d6")
-  })
   },
   // Home page
   home: {
@@ -96,6 +92,11 @@ $(document).ready(UTIL.loadEvents);
 }); 
         
         });
+
+  $(document).ready(function() {
+    var addthis_config = {"data_track_addressbar": true};
+    $.getScript("//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c96d1a34c34d6")
+  });
 
 })(jQuery); // Fully reference jQuery after this point.
 
