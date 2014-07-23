@@ -1,4 +1,4 @@
-<?php if(is_front_page()) : ?>
+<?php if(is_home()) : ?>
 
 <header class="masthead" role="banner">
   <div class="container">
