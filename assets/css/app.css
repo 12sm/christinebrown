@@ -17,6 +17,7 @@ p {
 }
 
 h1 {
+   font-family: "proxima-nova";
    font-size: 30px;
    font-weight: 700;
    color: #FFF !important;
@@ -24,6 +25,7 @@ h1 {
 }
 
 h2 {
+   font-family: "proxima-nova";
    font-size: 18px;
    font-weight: 700;
    color: #FFF !important;
@@ -31,6 +33,7 @@ h2 {
 }
 
 h3 {
+   font-family: "proxima-nova";
    font-size: 14px;
    font-weight: 700;
    color: #FFF !important;
@@ -39,7 +42,8 @@ h3 {
 }
 
 h4 {
-   font-size: 14px;
+   font-family: "proxima-nova";f
+   ont-size: 14px;
    color: #FFF !important;
    text-transform: uppercase;  
 }
@@ -96,6 +100,7 @@ header {
 }
 
 .readmore > a {
+   font-family: "proxima-nova";
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
@@ -338,6 +343,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }  
 
 .navbar-custom {
+    font-family: "proxima-nova";
     background-color:rgba(255,255,255,0.1);
     font-weight:700;
     text-transform:uppercase;
