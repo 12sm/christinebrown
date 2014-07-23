@@ -245,11 +245,16 @@ header {
 .albumtitle {
    float: left;
    margin: 0 5px 0  0;
+   font-family: 'Parisienne', cursive;
+   font-size: 45px;
+   color: #FFF !important;
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
 .albumreleased {
-  
+
 }
+
 /* ==========================================================================
    Footer
    ========================================================================== */
