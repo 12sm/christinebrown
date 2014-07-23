@@ -174,8 +174,12 @@ header {
   
 }
 
+/*  .wpb_text_column .wpb_content_element .quotebox {
+  background-color: rgba(240, 240, 240, .5);  
+}*/
+
 .quotebox p {
-  background-color: rgb(240, 240, 240, .5);
+  background-color: rgba(240, 240, 240, .5);
   color: #444;
 }
 
