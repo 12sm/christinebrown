@@ -31,8 +31,8 @@ var Roots = {
        $.backstretch('../assets/img/bg.jpg');
       } else {
        $.backstretch('../img/bg.jpg');
+    } */
     }
-    }*/
   },
   // Home page
   home: {
