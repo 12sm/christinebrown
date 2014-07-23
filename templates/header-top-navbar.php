@@ -1,4 +1,3 @@
-<?php if(is_front_page()) ?>
 <header class="masthead" role="banner">
   <div class="container">
   <div class="row">
@@ -12,8 +11,7 @@
     </div>
   </div>
   </div>
-</header>
-<?php endif; ?>      
+</header>  
 
 <div id="nav">
 <div class="banner navbar navbar-custom navbar-static-top navbartop">
