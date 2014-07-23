@@ -158,6 +158,11 @@ header {
 /* Gallery Shortcode */
 .gallery-row { padding: 15px 0; }
 
+.newsbody {
+  text-align: center;
+  width: 700px;
+  margin: auto;
+}
 
 
 /* ==========================================================================
