@@ -271,7 +271,7 @@ header {
    float: left;
 }
 
-.storelink {
+.storelink > a {
   font-family: "proxima-nova";
   font-size: 12px;
   font-weight: 700;
