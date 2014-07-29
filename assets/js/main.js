@@ -45,6 +45,7 @@ console.log('affixnav is firing');
         top: 0
         }
     });
+      $('#nav').affix('checkPosition');
     }
     //affix for tablet +
     if ($(window).width() >= 768){
@@ -68,9 +69,9 @@ console.log('affixnav is firing');
             top: 17
              }
     }); 
-        
-        };
         $('#nav').affix('checkPosition');
+        };
+
       }
       //Call affix on window resize
       $(window).ready(affixnav);
