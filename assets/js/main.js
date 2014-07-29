@@ -40,17 +40,17 @@ function affixnav(){
 console.log('affixnav is firing');
             //affix for mobile
     if ($(window).width() <= 768){
-      $('#nav').affix('checkPosition');
+      console.log('mobile firing');
       $('#nav').affix({
       offset: {
         top: 0
         }
     });
-      
+    $('#nav').affix('checkPosition');
     }
     //affix for tablet +
     if ($(window).width() >= 768){
-      $('#nav').affix('checkPosition');
+      
           console.log('width is above 768px');
             $('#nav').affix({
       offset: {
@@ -71,7 +71,7 @@ console.log('affixnav is firing');
             top: 17
              }
     }); 
-        
+        $('#nav').affix('checkPosition');
         };
 
       }
