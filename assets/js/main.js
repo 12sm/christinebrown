@@ -29,9 +29,9 @@ var Roots = {
     });
     if ($(window).width() <= 768){
        $.backstretch('../assets/img/bg.jpg');
-      } else {
+      } /*else {
        $.backstretch('../assets/img/bg.jpg');
-    }
+    }*/
     }
   },
   // Home page
@@ -68,9 +68,9 @@ var UTIL = {
 };
 
 $(document).ready(UTIL.loadEvents);
-if ($(window).width() >= 768){
+
         $(document).ready(function() {
-            $('#nav').affix({
+             $('#nav').affix({
       offset: {
         top: $('header').height()
       }
@@ -89,7 +89,7 @@ if ($(window).width() >= 768){
             top: 17
              }
 }); 
-       } endif;
+        
         });
 
   $(document).ready(function() {
