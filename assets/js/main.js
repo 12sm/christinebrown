@@ -42,7 +42,8 @@ $('#nav').affix({
           if ($(window).width() <= 768){ return 0};
           if ($(window).width() >= 768){ return $('header').height();}
         }
-        });
+        }
+      });
 
 /*
 console.log('affixnav is firing');
