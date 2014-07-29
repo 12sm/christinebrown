@@ -134,6 +134,14 @@ header {
    -webkit-transition: all .6s ease-in-out;
 }
 
+.navbar-custom {
+    font-family: "proxima-nova";
+    background-color:rgba(255,255,255, 1);
+    font-weight:700;
+    text-transform:uppercase;
+    border-width:0;   
+}
+
 
 
 
@@ -460,12 +468,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }  
 
 .navbar-custom {
-    font-family: "proxima-nova";
-    background-color:rgba(255,255,255,0.1);
-    font-weight:700;
-    text-transform:uppercase;
-    border-width:0;   
+    background-color:rgba(255,255,255,0.1); 
 }
+
 .navbar-custom li {
     text-align: center;
 }
