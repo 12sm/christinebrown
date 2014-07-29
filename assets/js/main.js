@@ -36,7 +36,15 @@ var Roots = {
 
 function affixnav(){
 
+$('#nav').affix({
+      offset: {
+        top: function(){
+          if ($(window).width() <= 768){ return 0};
+          if ($(window).width() >= 768){ return $('header').height();}
+        }
+        });
 
+/*
 console.log('affixnav is firing');
             //affix for mobile
     if ($(window).width() <= 768){
@@ -72,7 +80,7 @@ console.log('affixnav is firing');
              }
     }); 
         $('#nav').affix('checkPosition');
-        };
+        };*/
 
       }
       //Call affix on window resize
