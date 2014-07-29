@@ -44,8 +44,6 @@ var Roots = {
     // optional: enable MPEG-4/AAC support (requires flash 9)
     flashVersion: 9
     });
-}
-
 
 soundManager.onready(function() {
   // soundManager.createSound() etc. may now be called
