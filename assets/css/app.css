@@ -331,14 +331,6 @@ footer {
    border-radius: 20px; 
 }
 
-.storelink {
-  margin: 25px 200px 0px 0px;
-}
-
-.storelink > a:hover {
-  color: inherit;
-}
-
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
@@ -587,7 +579,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .storelink {
-  margin: 12px 200px 0 0;
+  margin: 25px 200px 0px 0px;
+}
+
+.storelink > a:hover {
+  color: inherit;
 }
 
 }
