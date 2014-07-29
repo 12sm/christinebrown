@@ -272,10 +272,18 @@ header {
 }
 
 .storelink {
-  color: #FFF !important;
+  font-family: "proxima-nova";
+  font-size: 12px;
+  text-transform: uppercase;
   margin: 5px;
   background-color: rgba(0, 0, 0, .4);
   overflow: hidden; 
+  float: right;
+  padding: 0 5px 5px 5px;
+}
+
+.storelink > a {
+    color: #FFF !important;
 }
 
 .songscontainer{
@@ -567,6 +575,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .newsinfo {
    padding: 10% 0 10% 0;
+}
+
+.storelink {
+  margin: 12px 200px 0 0;
 }
 
 }
