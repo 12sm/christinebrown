@@ -1,6 +1,4 @@
-
-        top: 0
-        }/* ========================================================================
+/* ========================================================================
  * DOM-based Routing
  * Based on http://goo.gl/EUTi53 by Paul Irish
  *
@@ -44,6 +42,8 @@ console.log('affixnav is firing');
     if ($(window).width() <= 768){
       $('#nav').affix({
       offset: {
+        top: 0
+        }
     });
     }
     //affix for tablet +
