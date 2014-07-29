@@ -62,7 +62,7 @@ console.log('affixnav is firing');
           $('#nav').on('affix-top.bs.affix', function () {
              $('#nav + .container').css('margin-top', 0);
     });
-$('#nav').affix('checkPosition');
+
           $('#sidebar').affix({
             offset: {
             top: 17
@@ -70,6 +70,7 @@ $('#nav').affix('checkPosition');
     }); 
         
         };
+        $('#nav').affix('checkPosition');
       }
       //Call affix on window resize
       $(window).ready(affixnav);
