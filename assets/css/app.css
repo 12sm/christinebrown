@@ -274,12 +274,14 @@ header {
 .storelink {
   font-family: "proxima-nova";
   font-size: 12px;
+  font-weight: 700px;
   text-transform: uppercase;
+  letter-spacing: 1px;
   margin: 5px;
   background-color: rgba(0, 0, 0, .4);
   overflow: hidden; 
   float: right;
-  padding: 0 5px 5px 5px;
+  padding: 5px;
 }
 
 .storelink > a {
@@ -329,6 +331,13 @@ footer {
    border-radius: 20px; 
 }
 
+.storelink {
+  
+}
+
+.storelink > a:hover {
+  color: inherit;
+}
 
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
