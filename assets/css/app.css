@@ -335,12 +335,14 @@ footer {
    font-size: 18px;
    font-weight: 700;
    color: #FFF !important;
-   text-transform: uppercase; 
+   text-transform: uppercase;
+   text-align: center; 
 }
 
 .panreadmore > a {
    text-decoration: none;
    text-transform: uppercase;
+   text-align: center;
    color: #990066;
    padding: 0 5px;
    background-color: rgb(255,255,255);
@@ -543,6 +545,10 @@ header {
 .pandora {
       float: left;
       margin: 0 5px 0  0;
+}
+
+.pandoratext {
+  text-align: left; 
 }
 
 .panreadmore > a {
