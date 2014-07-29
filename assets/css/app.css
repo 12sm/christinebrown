@@ -282,17 +282,18 @@ header {
   overflow: hidden; 
   float: right;
   padding: 6px 9px;
+  color: #FFF !important;
 }
 
-.storelink > a {
-    color: #FFF !important;
-}
-
-.songscontainer{
+.songscontainer {
   
 }
 
 .mp3 {
+  
+}
+
+.license {
   
 }
 
@@ -579,7 +580,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 .storelink {
-  margin: 25px 200px 0px 0px;
+  margin: 24px 200px 0px 0px;
 }
 
 .storelink > a:hover {
