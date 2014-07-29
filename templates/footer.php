@@ -26,7 +26,7 @@
   </div>
   <div class="col-lg-12 linkswrapper">
     <div class="row">
-      <div class="col-xs-5 social-nav">
+      <div class="col-sm-5 social-nav">
         <div id="social-float" class="row">
           <div class="scripty1"> 
           <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
@@ -40,7 +40,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-xs-5 stores-nav">
+      <div class="col-sm-5 stores-nav">
         <div id="social-float" class="row">
           <div id="scripty"> 
           <img class="img-responsive" src="/assets/img/download-music-from.png"></img>
@@ -56,17 +56,17 @@
   </div>     
   <div class="col-lg-12 sponswrapper">
     <div class="row">
-      <div class="col-xs-5 sponstext">
+      <div class="col-sm-5 sponstext">
       Christine is proud to be a Kawai artist!
       </div>
-      <div class="col-xs-5 sponslogo">
+      <div class="col-sm-5 sponslogo">
         <img class="img-responsive" src="/assets/img/kawai.png"> 
       </div>
     </div>
   </div>    
   <div class="col-lg-12 bottomrow">
     <div class="row">
-        <div class="col-xs-8">
+        <div class="col-sm-8">
           <div class="signup">
             <div id="mc_embed_signup">
             <form action="http://christinebrownpiano.us6.list-manage.com/subscribe/post?u=e8eddda6386725bbc2074242b&amp;id=994868238f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""> <label for="mce-EMAIL"><h3>Sign up for the e-mail newsletter here</h3></label>
@@ -79,7 +79,7 @@
             </div>             
          </div>
         </div>         
-        <div class="col-xs-4 credits">
+        <div class="col-sm-4 credits">
           <h3>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  |  <a href="http://12southmusic.com/" target="_blank">built by 12SM</h3>
         </div>
       </div>
