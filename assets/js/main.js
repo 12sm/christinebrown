@@ -38,7 +38,11 @@ function affixnav(){
 console.log('affixnav is firing');
             //affix for mobile
     if ($(window).width() <= 768){
-      $('#nav').affix();
+      $('#nav').affix({
+      offset: {
+        top: 0
+        }
+    });
     }
     //affix for tablet +
     if ($(window).width() >= 768){
