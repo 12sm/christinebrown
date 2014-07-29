@@ -37,6 +37,7 @@ var Roots = {
 
 
 function affixnav(){
+$('#nav').affix('checkPosition');
 
 console.log('affixnav is firing');
             //affix for mobile
