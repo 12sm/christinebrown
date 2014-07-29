@@ -414,6 +414,7 @@ color: #99CCFF!important;
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
+   padding: 0 5px;
    background-color: rgb(255,255,255);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
@@ -625,7 +626,7 @@ header {
 }
 
 .bottomrow {
-      padding: 20px 0 0 0;
+  padding: inherit;
 }
 
 .credits {
