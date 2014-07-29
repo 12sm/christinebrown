@@ -35,7 +35,7 @@ var Roots = {
 
 
 function affixnav(){
-$('#nav').affix('checkPosition');
+
 
 console.log('affixnav is firing');
             //affix for mobile
@@ -62,7 +62,7 @@ console.log('affixnav is firing');
           $('#nav').on('affix-top.bs.affix', function () {
              $('#nav + .container').css('margin-top', 0);
     });
-
+$('#nav').affix('checkPosition');
           $('#sidebar').affix({
             offset: {
             top: 17
