@@ -76,7 +76,6 @@ $(document).ready(UTIL.loadEvents);
          if ($(window).width() >= 768){
         top: $('header').height()
       }
-      }
     }); 
           $('#nav').on('affix.bs.affix', function () {
             var navHeight = $('.navbar').outerHeight(true);
