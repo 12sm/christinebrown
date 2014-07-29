@@ -32,7 +32,11 @@ var Roots = {
       } else {
        $.backstretch('../assets/img/bg.jpg');
     }
-
+    //affix for mobile
+if ($(window).width() <= 768){
+  $('#nav').affix();
+}
+//affix for tablet +
     if ($(window).width() >= 768){
           console.log('width is above 768px');
             $('#nav').affix({
