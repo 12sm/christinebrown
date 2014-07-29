@@ -70,6 +70,7 @@ console.log('affixnav is firing');
         };
       }
       //Call affix on window resize
+      $(window).ready(affixnav);
       $(window).resize(affixnav);
 
             }
