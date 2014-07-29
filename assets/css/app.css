@@ -360,11 +360,11 @@ footer {
 }
 
 .socialnav {
-  width: 100%;
+  width: 100px;
 }
 
 .storesnav {
-  width: 100%
+  width: 100px
 }
 
 #social ul {margin:0px; padding:0px; list-style: none;}
