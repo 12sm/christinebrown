@@ -6,11 +6,6 @@
 /* ==========================================================================
    Base
    ========================================================================== */
-
-body { 
-   /* background-image: url("../img/bg.jpg") */
-}
-
 p {
    font-family: 'proxima-nova';
    color: #FFFFFF;
@@ -444,6 +439,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
+body { 
+   background-image: url("../img/bg.jpg");
+   background-size: cover !important;
+}
+
 .navbar {
    padding: 15px 0;
 }
