@@ -73,9 +73,11 @@ $(document).ready(UTIL.loadEvents);
         
             $('#nav').affix({
       offset: {
+         if ($(window).width() <= 768){
         top: $('header').height()
       }
-}); 
+    }
+    }); 
           $('#nav').on('affix.bs.affix', function () {
             var navHeight = $('.navbar').outerHeight(true);
             
