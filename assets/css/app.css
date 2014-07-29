@@ -275,7 +275,7 @@ header {
   color: #FFF !important;
   margin: 5px;
   background-color: rgba(0, 0, 0, .4);
-  overflow: none; 
+  overflow: hidden; 
 }
 
 .songscontainer{
