@@ -68,9 +68,8 @@ var UTIL = {
 };
 
 $(document).ready(UTIL.loadEvents);
-
+if ($(window).width() >= 768){
         $(document).ready(function() {
-        
             $('#nav').affix({
       offset: {
         top: $('header').height()
@@ -90,7 +89,7 @@ $(document).ready(UTIL.loadEvents);
             top: 17
              }
 }); 
-        
+       } endif;
         });
 
   $(document).ready(function() {
