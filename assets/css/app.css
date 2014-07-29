@@ -135,6 +135,10 @@ hr {
     font-weight:700;
     text-transform:uppercase;
     border-width:0;   
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding-left: 100%;
 }
 
 .navbar-custom  .navbar-nav>li>a {
