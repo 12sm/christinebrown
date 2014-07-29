@@ -252,11 +252,12 @@ header {
 
 .albumtitle {
    float: left;
-   margin: 0 5px 0 3px;
+   margin: 0 20px 0 3px;
    font-family: 'Parisienne', cursive;
    font-size: 45px;
    color: #FFF !important;
    text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
+   
 }
 
 .albumreleased {
@@ -265,6 +266,7 @@ header {
    color: #FFF !important;
    text-transform: uppercase;
    text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);  
+   margin: 30px 0 0 0;
 }
 
 /* ==========================================================================
