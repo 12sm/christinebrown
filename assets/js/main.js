@@ -66,8 +66,9 @@ function affix(){
         };
       }
       //Call affix on window resize
-      $('window').on('resize', affix);
-      }
+      $('window').resize(affix());
+
+            }
   },
   // Home page
   home: {
