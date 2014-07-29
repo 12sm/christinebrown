@@ -215,6 +215,7 @@ header {
   margin-bottom: 0px !important;
 }
 
+
 /* ==========================================================================
    Sidebar
    ========================================================================== */
@@ -301,9 +302,14 @@ footer {
    border-radius: 20px; 
 }
 
+
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
+
+#social-float {
+  margin: 10px 0 0 0;
+}
 
 #social-float>ul{
    display: none;
