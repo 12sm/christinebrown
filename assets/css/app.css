@@ -434,8 +434,12 @@ color: #99CCFF!important;
    padding: 20px 0 0 0;
 }
 
+.signup {
+  text-align: center;
+}
+
 .credits {
-   text-align: right;
+   text-align: center;
 }
 
 }
@@ -618,6 +622,10 @@ header {
 
 .license > a {
   
+}
+
+.credits {
+   text-align: center;
 }
 
 }
