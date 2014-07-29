@@ -35,7 +35,7 @@ var Roots = {
 
 
 function affixnav(){
-
+console.log('affixnav is firing');
             //affix for mobile
     if ($(window).width() <= 768){
       $('#nav').affix();
