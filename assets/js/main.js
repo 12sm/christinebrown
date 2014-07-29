@@ -1,4 +1,6 @@
-/* ========================================================================
+
+        top: 0
+        }/* ========================================================================
  * DOM-based Routing
  * Based on http://goo.gl/EUTi53 by Paul Irish
  *
@@ -35,15 +37,12 @@ var Roots = {
 
 
 function affixnav(){
-  $('*[data-spy=affix]').each(function () { $(this).data('affix').checkPosition(); });
 
 console.log('affixnav is firing');
             //affix for mobile
     if ($(window).width() <= 768){
       $('#nav').affix({
       offset: {
-        top: 0
-        }
     });
     }
     //affix for tablet +
