@@ -35,6 +35,7 @@
           <li class="menu-"><a href="https://www.facebook.com/christinebrownpiano" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
           <li class="menu-"><a href="https://twitter.com/pianochristineb" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
           <li class="menu-"><a href="https://www.youtube.com/channel/UC7HsnfpQ5pXDbTbiS35q-sQ" target="_blank"><i class="fa fa-youtube-play fa-2x"></i></a></li>
+          <li class="menu-"><a href="https://soundcloud.com/christine-brown-piano" target="_blank"><i class="fa fa-soundcloud fa-2x"></i></a></li> 
           <li class="menu-"><a href="http://www.solopianoradio.com/" target="_blank"><img src="/assets/img/whisperings.png" onmouseover="this.src='/assets/img/whisperings-active.png'" onmouseout="this.src='/assets/img/whisperings.png'"></a></i></a></li>
           </ul>
         </div>
