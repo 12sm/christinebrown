@@ -29,9 +29,9 @@ var Roots = {
     });
     if ($(window).width() <= 768){
        $.backstretch('../assets/img/bg.jpg');
-      } /*else {
+      } else {
        $.backstretch('../assets/img/bg.jpg');
-    }*/
+    }
     }
   },
   // Home page
