@@ -365,7 +365,6 @@ footer {
 
 #social-float > ul{
    display: none;
-   margin-right: inherit !!important;
 }
 
 #social-float>ul>li>a>i{
@@ -386,8 +385,8 @@ color: #99CCFF!important;
    color: #fff;
 }
 #social-float>ul{
-   right: 50%;
-   margin-right: -150px;
+   margin-left: auto;
+   margin-right: auto;
    margin-top: 20px;
    bottom: 5px;
    display: block;
