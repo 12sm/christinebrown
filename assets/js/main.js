@@ -34,7 +34,7 @@ var Roots = {
     }
 
 
-function affix(){
+function affixnav(){
 
             //affix for mobile
     if ($(window).width() <= 768){
@@ -66,7 +66,7 @@ function affix(){
         };
       }
       //Call affix on window resize
-      $('window').resize(affix());
+      $('window').resize(affixnav());
 
             }
   },
