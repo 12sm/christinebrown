@@ -307,10 +307,6 @@ footer {
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
 
-#social-float {
-  margin: 10px 0 0 0;
-}
-
 #social-float>ul{
    display: none;
 }
@@ -339,6 +335,10 @@ color: #99CCFF!important;
    bottom: 5px;
    display: block;
    list-style: none;
+}
+
+.scripty1 {
+  margin: 15px 0 0 0:
 }
 
 .img-link {
