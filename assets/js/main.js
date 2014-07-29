@@ -30,7 +30,7 @@ var Roots = {
     if ($(window).width() <= 768){
        $.backstretch('/assets/img/bg.jpg');
       } else {
-       $.backstretch('/img/bg.jpg');
+       $.backstretch('assets/img/bg.jpg');
     }
     }
   },
