@@ -293,7 +293,7 @@ header {
   
 }
 
-.license {
+.license > a {
   
 }
 
@@ -364,10 +364,6 @@ color: #99CCFF!important;
    bottom: 5px;
    display: block;
    list-style: none;
-}
-
-.scripty1 {
-  padding: 0 0 0 15px;
 }
 
 .img-link {
@@ -543,6 +539,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    float: none;
 }
 
+.scripty1 {
+   margin: 0 0 0 45px;
+}
+
 .social-nav {
    float: left;
 }
@@ -585,6 +585,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .storelink > a:hover {
   color: inherit;
+}
+
+.license > a {
+  
 }
 
 }
