@@ -70,10 +70,10 @@ var UTIL = {
 $(document).ready(UTIL.loadEvents);
 
         $(document).ready(function() {
-        
+        if ($(window).width() >= 768){ 
             $('#nav').affix({
       offset: {
-        top: if ($(window).width() >= 768){ 
+        top: 
           $('header').height()
         }
       }
