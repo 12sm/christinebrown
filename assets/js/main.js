@@ -35,6 +35,8 @@ var Roots = {
 
 
 function affixnav(){
+  $('*[data-spy=affix]').each(function () { $(this).data('affix').checkPosition(); });
+
 console.log('affixnav is firing');
             //affix for mobile
     if ($(window).width() <= 768){
