@@ -27,11 +27,11 @@ var Roots = {
     $('#signup').bind('touchstart', function(e) {
         $(this).toggleClass('hover_effect');    
     });
-    /*if ($(window).width() <= 768){
-       $.backstretch('../assets/img/bg.jpg');
+    if ($(window).width() <= 768){
+       $.backstretch('/assets/img/bg.jpg');
       } else {
-       $.backstretch('../img/bg.jpg');
-    } */
+       $.backstretch('/img/bg.jpg');
+    }
     }
   },
   // Home page
