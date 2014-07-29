@@ -176,6 +176,10 @@ hr {
    background-image: url("../img/fil-down.png");
 }
 
+.homefeature {
+
+}
+
 /* ==========================================================================
    Primary Content
    ========================================================================== */
@@ -528,7 +532,7 @@ header {
 }
 
 .homefeature {
-   padding: 5% 10% 40%;
+   padding: 10% 20% 30%;
 }
 
 .readmore > a:hover {
