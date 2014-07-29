@@ -14,7 +14,7 @@
 </header>  
 
 <div id="nav">
-<div class="banner navbar navbar-custom navbar-static-top navbartop">
+<div class="banner navbar navbar-custom navbar-static-top navbartop navbar-default">
   <div class="container navcontainer">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
