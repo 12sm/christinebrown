@@ -359,20 +359,13 @@ footer {
    border-radius: 20px; 
 }
 
-.socialnav {
-  width: 100px;
-}
-
-.storesnav {
-  width: 100px
-}
-
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
 
-#social-float>ul{
+#social-float > ul{
    display: none;
+   margin-right: inherit !!important;
 }
 
 #social-float>ul>li>a>i{
