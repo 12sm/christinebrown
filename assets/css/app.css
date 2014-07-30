@@ -486,7 +486,9 @@ color: #99CCFF!important;
 }
 
 .sponslogo {
-   height: 70px;
+  height: 70px;
+  max-width: 374px;
+  margin: 0 auto 40px;
 }
 
 .sponstext {
