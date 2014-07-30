@@ -367,7 +367,6 @@ hr {
   margin: 5px;
   background-color: rgba(50, 50, 50, .5);
   overflow: hidden; 
-  float: right;
   padding: 6px 9px;
   color: #FFF !important;
 }
@@ -785,6 +784,10 @@ header {
 
 .storelink {
   margin: 0px 200px 0px 0px;
+}
+
+.storelink > a {
+  float: right;
 }
 
 .storelink > a:hover {
