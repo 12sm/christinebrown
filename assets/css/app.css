@@ -198,7 +198,6 @@ hr {
 
 .newsbody {
   text-align: center;
-  width: 700px;
   margin: auto;
 }
 
@@ -541,6 +540,10 @@ header {
 
 .excerpt {
    text-align: left !important;
+}
+
+.newsbody {
+    width: 700px;
 }
 
 .homefeature {
