@@ -26,7 +26,7 @@
   </div>
   <div class="col-lg-12 linkswrapper">
     <div class="row">
-      <div class="col-md-12 social-nav">
+      <div class="col-sm-5 social-nav">
         <div id="social-float" class="row">
           <div id="scripty1"> 
           <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
@@ -37,6 +37,15 @@
           <li class="menu-"><a href="https://www.youtube.com/channel/UC7HsnfpQ5pXDbTbiS35q-sQ" target="_blank"><i class="fa fa-youtube-play fa-2x"></i></a></li>
           <li class="menu-"><a href="https://soundcloud.com/christine-brown-piano" target="_blank"><i class="fa fa-soundcloud fa-2x"></i></a></li> 
           <li class="menu-"><a href="http://www.solopianoradio.com/" target="_blank"><img class="img-responsive" src="/assets/img/whisperings.png" onmouseover="this.src='/assets/img/whisperings-active.png'" onmouseout="this.src='/assets/img/whisperings.png'"></a></i></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-5 stores-nav">
+        <div id="downld-float" class="row">
+          <div id="scripty"> 
+          <img class="img-responsive" src="/assets/img/download-music-from.png"></img>
+          </div> 
+          <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://itunes.apple.com/artist/christine-brown/id28052587?forceArtistPage=1" target="_blank"><i class="fa fa-apple fa-2x"></i></a></li>
           <li class="menu-"><a href="http://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith" target="_blank"><i class="fa fa-spotify fa-2x"></i></a></li>
           <li class="menu-"><a href="http://www.amazon.com/Christine-Brown/e/B000APG4SW/ref=ntt_mus_dp_pel" target="_blank"><img class="img-responsive" src="/assets/img/amazon.png" onmouseover="this.src='/assets/img/amazon-active.png'" onmouseout="this.src='/assets/img/amazon.png'"></a></i></a></li>
