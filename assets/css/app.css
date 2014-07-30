@@ -105,7 +105,8 @@ hr {
     }
 
 .featured {
-   text-align: center;
+    text-align: center;
+    margin: 50px 0;
 }
 
 .readmore > a {
@@ -710,6 +711,10 @@ header {
 
 .homefeature {
    padding: 3% 2% 30%;
+}
+
+.featured {
+    margin: inherit;
 }
 
 .homeimg {
