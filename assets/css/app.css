@@ -360,6 +360,7 @@ hr {
 
 .storelink {
   text-align: center;
+  margin: 10px 0;
 }
 
 .storelink > a {
@@ -814,6 +815,7 @@ header {
 .storelink {
   margin: 0px 200px 0px 0px;
   text-align: inherit;
+  margin: inherit;
 }
 
 .storelink > a {
