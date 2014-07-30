@@ -338,7 +338,7 @@ footer {
 .pandora {
    height: 70px;
    max-width: 375px;
-   margin: auto;
+   margin: 0 auto 20px;   
 }
 
 .pandoratext {
