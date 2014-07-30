@@ -657,6 +657,7 @@ header {
 
 .stores-nav {
    float: right;
+   margin: 20px 0;
 }
 
 #downld-float>ul {
