@@ -339,13 +339,13 @@ hr {
 .albumtopline {
     overflow: hidden;
     display:block;
-    margin:auto; 
+    margin: auto; 
 }
 
 .albumtitle {
    text-align: center;
    font-family: 'Parisienne', cursive;
-   font-size: 45px;
+   font-size: 40px;
    color: #FFF !important;
    text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);  
 }
@@ -801,6 +801,7 @@ header {
 }
 
 .albumtopline {
+  margin: 0px auto 10px;
 }
 
 
