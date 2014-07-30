@@ -25,8 +25,7 @@
     </div>
   </div>
   <div class="col-lg-12 linkswrapper">
-    <div class="row">
-      <div class="col-md-12 social-nav">
+    <div class="row">>
         <div id="social-float" class="row">
           <div id="scripty1"> 
           <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
@@ -43,7 +42,6 @@
           <li class="menu-"><a href="http://www.cdbaby.com/artist/christinebrown" target="_blank"><img class="img-responsive" src="/assets/img/cdbaby.png" onmouseover="this.src='/assets/img/cdbaby-active.png'" onmouseout="this.src='/assets/img/cdbaby.png'"></a></i></a></li>
         </div>
       </div>
-    </div>
   </div>     
   <div class="col-lg-12 sponswrapper">
     <div class="row">
