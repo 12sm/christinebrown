@@ -770,7 +770,7 @@ header {
 }
 
 .storelink {
-  margin: 24px 200px 0px 0px;
+  margin: 0px 200px 0px 0px;
 }
 
 .storelink > a:hover {
@@ -782,7 +782,7 @@ header {
 }
 
 .mp3container {
-  height: 130px;
+  height: 160px;
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
@@ -802,14 +802,13 @@ header {
   color: #FFF;
   font-family: 'proxima-nova';
   float: left;
-  margin: 0 0 0 5px;
+  margin: 0 0 0 10px;
 }
 
 .mp3title {
   color: #FFF;
   font-family: 'proxima-nova';
-  margin: 0 0 0 5px;
-  
+  margin: 0 0 0 40px;  
 }
 
 .bottomrow {
