@@ -844,6 +844,14 @@ header {
   color: #FFF;
 }
 
+.homemp3container {
+  color:#FFF;
+}
+
+.homemp3cont {
+    margin: 10px 0 0 20px;
+}
+
 .mp3cont {
   margin: inherit;
 }
