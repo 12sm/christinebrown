@@ -782,10 +782,23 @@ header {
 }
 
 .mp3container {
-  max-height: 150px;
+  height: 130px;
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
+  color: #FFF;
+}
+
+.mp3play {
+  color: #FFF;
+}
+
+.mp3numb {
+  
+}
+
+.mp3title {
+  
 }
 
 .bottomrow {
