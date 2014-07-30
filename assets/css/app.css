@@ -186,7 +186,7 @@ hr {
 }
 
 .featimg {
-  padding: 20px 0;
+  margin: 20px 0 20px -20px;
 }
 
 /* ==========================================================================
@@ -547,6 +547,10 @@ header {
 
 .homefeature {
    padding: 10% 20% 30%;
+}
+
+.featimg {
+  margin: 20px 0 0 0;
 }
 
 .readmore > a:hover {
