@@ -787,18 +787,24 @@ header {
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
   color: #FFF;
+  overflow: hidden;
 }
 
 .mp3play {
   color: #FFF;
+  float: left;
+  
 }
 
 .mp3numb {
-  
+  color: #FFF;
+  font-family: 'proxima-nova';
+  float: left;
 }
 
 .mp3title {
-  
+  color: #FFF;
+  font-family: 'proxima-nova';
 }
 
 .bottomrow {
