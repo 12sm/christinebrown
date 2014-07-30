@@ -837,7 +837,6 @@ header {
 }
 
 .mp3container {
-  height: 160px;
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
@@ -877,6 +876,10 @@ header {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
+.albumcover {
+  margin: 30%;
+}
 
 }
 
