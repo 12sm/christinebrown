@@ -375,12 +375,21 @@ footer {
    display: none;
 }
 
-#social-float>ul>li>a>i #social-float>ul>li>a>i{
+#social-float>ul>li>a>i {
+   color: #fff;
+   text-decoration: none;
+} 
+
+#downld-float>ul>li>a>i{
    color: #fff;
    text-decoration: none;
 } 
   
-#social-float>ul>li>a>i:hover #downld-float>ul>li>a>i:hover {
+#social-float>ul>li>a>i:hover {
+color: #99CCFF!important;
+}
+
+#downld-float>ul>li>a>i:hover {
 color: #99CCFF!important;
 }
 
