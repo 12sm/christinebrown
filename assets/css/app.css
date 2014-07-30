@@ -393,7 +393,7 @@ color: #99CCFF!important;
    color: #fff;
 }
 #social-float>ul{
-   margin-left: auto;
+   margin-left: -40px;
    margin-right: auto;
    bottom: 5px;
    display: block;
