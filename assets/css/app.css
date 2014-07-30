@@ -139,7 +139,8 @@ hr {
     text-transform:uppercase;
     border-width:0;   
     position: absolute;
-
+    top: 0px;
+    max-width: 100%;
 }
 
 .navbar-custom  .navbar-nav>li>a {
