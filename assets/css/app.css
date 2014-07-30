@@ -394,14 +394,27 @@ color: #99CCFF!important;
 }
 
 #social-float>#menu-social-navigation > li:nth-child(6){
+   margin-right: 15px;
+  }
+
+#downld-float>#menu-social-navigation > li:nth-child(6){
    margin-right: 10px;
   }
+
 #social-float>#menu-social-navigation>li{
    float: left;
    margin-right: 15px;
    color: #fff;
    text-align: center;
 }
+
+#downld-float>#menu-social-navigation>li{
+   float: left;
+   margin-right: 15px;
+   color: #fff;
+   text-align: center;
+}
+
 #social-float>ul{
    margin-left: 20px;
    margin-right: auto;
