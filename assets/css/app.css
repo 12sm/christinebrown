@@ -245,6 +245,13 @@ hr {
   a.sm2_button.sm2_paused:hover {
    background-color:#666;
   }
+
+  .sm2_link .fa :before, .sm2_paused .fa:before {
+    content: "\f04b";
+    }
+    .sm2_playing .fa:before{
+      content: "\f04c";
+    }
 /* ==========================================================================
    Primary Content
    ========================================================================== */
