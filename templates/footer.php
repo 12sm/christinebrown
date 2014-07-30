@@ -25,7 +25,7 @@
     </div>
   </div>
   <div class="col-lg-12 linkswrapper">
-    <div class="row">>
+    <div class="row">
         <div id="social-float" class="row">
           <div id="scripty1"> 
           <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
