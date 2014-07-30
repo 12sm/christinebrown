@@ -848,6 +848,11 @@ header {
   color:#FFF;
 }
 
+.homealbumcontainer {
+  max-width: 50px;
+  height: auto;
+}
+
 .homemp3cont {
     margin: 10px 0 0 20px;
 }
