@@ -802,11 +802,13 @@ header {
   color: #FFF;
   font-family: 'proxima-nova';
   float: left;
+  margin: 0 4px;
 }
 
 .mp3title {
   color: #FFF;
   font-family: 'proxima-nova';
+  
 }
 
 .bottomrow {
