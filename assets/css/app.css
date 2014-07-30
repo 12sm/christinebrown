@@ -270,10 +270,6 @@ hr {
   
 }
 
-/*  .wpb_text_column .wpb_content_element .quotebox {
-  background-color: rgba(240, 240, 240, .5);  
-}*/
-
 .quotebox {
   background-color: rgba(240, 240, 240, .7);
   padding: 20px;
@@ -333,7 +329,7 @@ hr {
 .albumcontainer {
   background-color:rgba(255,255,255,0.1);
   padding: 10px;
-  margin: 0 0 0 30px;
+  max-width: 300px;
 }
 
 .albumtopline {
@@ -797,6 +793,10 @@ header {
 
 .license > a {
   
+}
+
+.albumcontainer {
+    margin: 0 0 0 30px;
 }
 
 .mp3container {
