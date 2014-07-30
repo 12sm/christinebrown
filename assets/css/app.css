@@ -94,7 +94,7 @@ hr {
 .banner { }
 
 .masthead {
-  margin: 0 0 0 20px;
+  margin: 0 0 30px 0;
 }
 
 .logo {
@@ -795,7 +795,6 @@ header {
 }
 
 .albumtopline {
-    width: 900px;
 }
 
 
