@@ -787,7 +787,11 @@ header {
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
   color: #FFF;
+}
+
+.mp3cont {
   overflow: hidden;
+  max-width: 50px;
 }
 
 .mp3play {
