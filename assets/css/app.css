@@ -340,7 +340,6 @@ hr {
 
 .albumtitle {
    text-align: center;
-   margin: 0 20px 0 3px;
    font-family: 'Parisienne', cursive;
    font-size: 45px;
    color: #FFF !important;
@@ -803,7 +802,8 @@ header {
 
 .albumtitle {
   float: left;
-  text-align: left;   
+  text-align: left;
+  margin: 0 20px 0 3px;   
 }
 
 .albumreleased {
