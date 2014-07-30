@@ -28,7 +28,7 @@
     <div class="row">
       <div class="col-sm-5 social-nav">
         <div id="social-float" class="row">
-          <div class="scripty1"> 
+          <div id="scripty1"> 
           <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
           </div> 
           <ul id="menu-social-navigation" class="">

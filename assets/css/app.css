@@ -369,12 +369,12 @@ footer {
   margin: 20px 0;
 }
 
-.scripty1 {
+#scripty1 {
   margin: auto;
   max-width: 367px;
 }
 
-.scripty {
+#scripty {
   margin: auto;
   max-width: 456px;
   
@@ -646,7 +646,7 @@ header {
    float: none;
 }
 
-.scripty1 {
+#scripty1 {
    margin: 0 0 0 45px;
 }
 
