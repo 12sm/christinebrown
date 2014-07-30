@@ -660,8 +660,7 @@ header {
    display: block;
    list-style: none;
    margin-left: auto;
-   max-width: inherit;
-   width: 75%;
+   max-width: 900px;
    margin: 0 auto; 
 }
 
