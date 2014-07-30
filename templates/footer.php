@@ -48,7 +48,7 @@
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://itunes.apple.com/artist/christine-brown/id28052587?forceArtistPage=1" target="_blank"><i class="fa fa-apple fa-2x"></i></a></li>
           <li class="menu-"><a href="http://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith" target="_blank"><i class="fa fa-spotify fa-2x"></i></a></li>
-          <li class="menu-"><a href="http://www.amazon.com/Christine-Brown/e/B000APG4SW/ref=ntt_mus_dp_pel" target="_blank"><i class="fa fa-amazon-sign fa-2x"></i></a></li>
+          <li class="menu-"><a href="http://www.amazon.com/Christine-Brown/e/B000APG4SW/ref=ntt_mus_dp_pel" target="_blank"><i class="fa fa-amazon fa-2x"></i></a></li>
           <li class="menu-"><a href="http://www.cdbaby.com/artist/christinebrown" target="_blank"><img class="img-responsive" src="/assets/img/cdbaby.png" onmouseover="this.src='/assets/img/cdbaby-active.png'" onmouseout="this.src='/assets/img/cdbaby.png'"></a></i></a></li>
         </div>
       </div>
