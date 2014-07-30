@@ -684,6 +684,10 @@ header {
    float: none;
 }
 
+.sponslogo {
+  max-width: 325px;
+}
+
 .newsinfo {
    padding: 10% 0 10% 0;
 }
