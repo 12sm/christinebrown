@@ -362,6 +362,11 @@ footer {
    border-radius: 20px; 
 }
 
+.social-nav {
+  margin: 20px 0;
+}
+
+
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
@@ -390,7 +395,6 @@ color: #99CCFF!important;
 #social-float>ul{
    margin-left: auto;
    margin-right: auto;
-   margin-top: 20px;
    bottom: 5px;
    display: block;
    list-style: none;
