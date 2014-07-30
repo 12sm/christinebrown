@@ -797,6 +797,7 @@ header {
 
 .albumcontainer {
     margin: 0 0 0 30px;
+    max-width: inherit;
 }
 
 .albumtitle {
