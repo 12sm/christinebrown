@@ -8,7 +8,7 @@
    ========================================================================== */
 
 body { 
-   /* background-image: url("../img/bg.jpg") */
+
 }
 
 p {
@@ -169,7 +169,6 @@ hr {
    margin-left: auto;
    margin-right: auto; 
    display: block;
-   background-image: url("../img/fil-up.png");
 }
 
 .swirlbottom {
@@ -178,7 +177,6 @@ hr {
    margin-left: auto;
    margin-right: auto;  
    display: block;
-   background-image: url("../img/fil-down.png");
 }
 
 .homefeature {
