@@ -349,8 +349,7 @@ hr {
    font-family: 'Parisienne', cursive;
    font-size: 45px;
    color: #FFF !important;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
-   
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);  
 }
 
 .albumreleased {
@@ -383,6 +382,25 @@ hr {
 
 .mp3 {
   
+}
+
+.mp3play {
+  color: #FFF;
+  float: left;
+  
+}
+
+.mp3numb {
+  color: #FFF;
+  font-family: 'proxima-nova';
+  float: left;
+  margin: 0 0 0 10px;
+}
+
+.mp3title {
+  color: #FFF;
+  font-family: 'proxima-nova';
+  margin: 0 0 0 40px;  
 }
 
 .license > a {
