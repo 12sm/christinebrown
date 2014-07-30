@@ -790,8 +790,6 @@ header {
 }
 
 .mp3cont {
-  overflow: hidden;
-  max-width: 50px;
 }
 
 .mp3play {
