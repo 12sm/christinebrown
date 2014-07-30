@@ -389,11 +389,11 @@ color: #99CCFF!important;
   }
 #social-float>#menu-social-navigation>li{
    float: left;
-   margin-right: 22px;
+   margin-right: 15px;
    color: #fff;
 }
 #social-float>ul{
-   margin-left: auto;
+   margin-left: -40px;
    margin-right: auto;
    bottom: 5px;
    display: block;
@@ -614,7 +614,13 @@ header {
    left: 0px;
    display: block;
    list-style: none;
+   margin-left: auto;
+   width: inherit;
 }
+
+#social-float>#menu-social-navigation>li{
+  margin-right: 22px;
+  }
 
 .stores-nav {
    float: right;
