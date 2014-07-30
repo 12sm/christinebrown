@@ -648,7 +648,7 @@ header {
 }
 
 #scripty1 {
-   margin: 0 0 0 45px;
+   margin: auto;
 }
 
 .social-nav {
@@ -656,13 +656,13 @@ header {
 }
 
 #social-float>ul {
-   float: left;
    margin-top: 5px;
-   left: 0px;
    display: block;
    list-style: none;
    margin-left: auto;
    max-width: inherit;
+   width: 75%;
+   margin: 0 auto; 
 }
 
 #social-float>#menu-social-navigation>li{
