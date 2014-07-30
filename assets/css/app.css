@@ -811,22 +811,16 @@ header {
 }
 
 .mp3play {
-  color: #FFF;
-  float: left;
+  
   
 }
 
 .mp3numb {
-  color: #FFF;
-  font-family: 'proxima-nova';
-  float: left;
-  margin: 0 0 0 10px;
+  
 }
 
 .mp3title {
-  color: #FFF;
-  font-family: 'proxima-nova';
-  margin: 0 0 0 40px;  
+  
 }
 
 .bottomrow {
