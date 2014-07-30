@@ -338,6 +338,7 @@ footer {
 .pandora {
    height: 70px;
    max-width: 375px;
+   margin: auto;
 }
 
 .pandoratext {
@@ -348,6 +349,7 @@ footer {
    color: #FFF !important;
    text-transform: uppercase;
    text-align: center; 
+   margin: auto;
 }
 
 .panreadmore > a {
@@ -360,6 +362,7 @@ footer {
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px; 
+   text-align: center;
 }
 
 .social-nav {
