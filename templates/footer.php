@@ -41,7 +41,7 @@
         </div>
       </div>
       <div class="col-sm-5 stores-nav">
-        <div id="social-float" class="row">
+        <div id="downld-float" class="row">
           <div id="scripty"> 
           <img class="img-responsive" src="/assets/img/download-music-from.png"></img>
           </div> 
