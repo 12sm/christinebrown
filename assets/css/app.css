@@ -93,11 +93,6 @@ hr {
    ========================================================================== */
 .banner { }
 
-.masthead {
-    margin: 60px 0 30px;
-    background-image: url("../img/brown2.jpg")
-}
-
 .logo {
     height: 180px;
     max-width: 634px;   
@@ -602,11 +597,7 @@ header {
 }
 
 .homefeature {
-   padding: 10% 0 30%;
-}
-
-.homeimg {
-  padding: 5% 0 0;
+   padding: 10% 20% 30%;
 }
 
 .readmore > a:hover { 
