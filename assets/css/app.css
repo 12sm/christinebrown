@@ -798,6 +798,7 @@ header {
   max-width:100% !important;
   height:auto;
   display:block;
+  margin: 30%;
 }
 
 .albumtopline {
@@ -878,7 +879,7 @@ header {
 @media (min-width: 992px) {
 
 .albumcover {
-  margin: 30%;
+  margin: inherit;
 }
 
 }
