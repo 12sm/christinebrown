@@ -601,7 +601,11 @@ header {
 }
 
 .homefeature {
-   padding: 10% 20% 30%;
+   padding: 10% 0 30%;
+}
+
+.homeimg {
+  padding: 20% 0 0;
 }
 
 .readmore > a:hover { 
