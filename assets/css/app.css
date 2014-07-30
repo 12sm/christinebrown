@@ -380,13 +380,14 @@ hr {
   
 }
 
-.mp3 {
-  
+.mp3cont {
+  margin: 5px 0;
 }
 
 .mp3play {
   color: #FFF;
   float: left;
+  font-size: 20px;
   
 }
 
@@ -808,10 +809,11 @@ header {
 }
 
 .mp3cont {
+  margin: inherit;
 }
 
 .mp3play {
-  
+  font-size: inherit;
   
 }
 
