@@ -733,10 +733,6 @@ header {
    padding: 3% 2% 30%;
 }
 
-.featured {
-    margin: inherit;
-}
-
 .readmore > a:hover { 
    color: #444;
 }
@@ -942,6 +938,10 @@ header {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
+.featured {
+    margin: inherit;
+}
 
 .albumcover {
   margin: inherit;
