@@ -741,6 +741,24 @@ header {
    padding: 3% 2% 30%;
 }
 
+.homealbumtitle {
+  margin: 20px 0px 20px 20px;
+}
+
+.homemp3cont {
+  margin: 5px 0 0 10px;
+}
+
+.homemp3container {
+  color:#FFF;
+}
+
+.homealbumcover {
+  max-width: 90px;
+  height: auto;
+  display: inherit;
+}
+
 .readmore > a:hover { 
    color: #444;
 }
@@ -839,28 +857,6 @@ header {
 
 .license > a {
   
-}
-
-.homealbumtitle {
-  margin: 20px 0px 20px 20px;
-}
-
-.homemp3cont {
-  margin: 5px 0 0 10px;
-}
-
-.homemp3container {
-  color:#FFF;
-}
-
-.homealbumcover {
-  max-width: 90px;
-  height: auto;
-  display: inherit;
-}
-
-.homealbumcontainer {
-  max-width: inherit;
 }
 
 .albumcover {
