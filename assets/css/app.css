@@ -1000,6 +1000,10 @@ header {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
+body .music .wrap {
+  max-width: 1400px
+} 
+
 .featured {
     margin: inherit;
 }
