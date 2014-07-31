@@ -1001,7 +1001,7 @@ header {
 
 #social-float>ul {
    max-width: 900px;
-   width: 65%;
+   width: 76%;
 }
 
 .navcenter{
@@ -1040,7 +1040,9 @@ header {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-
+#social-float>ul {
+width: 65%;
+}
 body.music .wrap {
   max-width: 1400px
 }
