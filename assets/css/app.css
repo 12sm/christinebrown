@@ -873,9 +873,8 @@ header {
   margin-left: auto;
   max-width: 280px;
   margin: 0 auto;
-  padding-left: 0px;
   width: 58%;
-  max-width: 415px;
+  max-width: 350px;
 }
 
 #social-float>#menu-social-navigation>li{
@@ -1004,6 +1003,7 @@ header {
 #social-float>ul {
    max-width: 900px;
    width: 76%;
+   padding-left: 0px;
 }
 
 .navcenter{
