@@ -608,7 +608,7 @@ color: #99CCFF!important;
    border: 0;
 }
 
-#mc-embedded-subscribe, .readmore {
+#mc-embedded-subscribe,.frm_submit > .readmore {
    text-decoration: none;
    text-transform: uppercase;
    color: #990066;
