@@ -186,11 +186,15 @@ hr {
     padding: 3% 2% 0;
 }
 
-.featimg {
+.homefeatimg {
   margin: 20px 0px 20px -15px;
   max-width: 300px;
 }
 
+.featimg {
+  max-width: 300px;
+  margin: 20px auto;
+}
 
 /* ==========================================================================
    Primary Content
@@ -652,7 +656,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 @media (min-width: 480px) {
 
-.featimg {
+.homefeatimg {
   margin: 20px auto;
 }
 
@@ -748,7 +752,7 @@ header {
    padding: 3% 2% 30%;
 }
 
-.featimg {
+.homefeatimg {
     margin: 20px auto;
 }
 
@@ -963,7 +967,7 @@ header {
     margin: inherit;
 }
 
-.featimg {
+.homefeatimg {
     margin: 20px 0px 20px -15px;
 }
 
@@ -987,7 +991,7 @@ header {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 
-.featimg {
+.homefeatimg {
     margin: 20px auto;
 }
 
