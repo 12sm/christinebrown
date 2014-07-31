@@ -104,8 +104,13 @@ hr {
     margin-right: auto;
     }
 
-.featured {
+.topfeatured {
     display: none;
+}
+
+.featured {
+    text-align: center;
+    margin: 50px 0;
 }
 
 .readmore > a {
@@ -649,7 +654,7 @@ header {
   margin: inherit;
   }
 
-.featured {
+.topfeatured {
     text-align: center;
     margin: 50px 0;
     display: inherit;
