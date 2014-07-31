@@ -304,10 +304,16 @@ hr {
    Albums Page
    ========================================================================== */
 
+.albumcover {
+  max-width: 300px;
+  margin: auto;
+}
+
 .albumcontainer {
   background-color:rgba(255,255,255,0.1);
   padding: 10px;
   max-width: 300px;
+  margin: auto;
 }
 
 .albumtopline {
