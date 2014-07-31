@@ -23,6 +23,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      Navigation
       <!--<a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>-->
     </div>
 
