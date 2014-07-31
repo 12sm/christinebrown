@@ -558,9 +558,9 @@ color: #99CCFF!important;
    margin-right: 10px;
   }
 
-#social-float>#menu-social-navigation>li{
-   float: left;
-   margin: 0 25px 20px 0;
+#social-float>#menu-social-navigation>li {
+    float: left;
+    margin: 0 20px 20px 0;
    color: #fff;
    text-align: center;
 }
@@ -683,7 +683,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-
+#social-float>#menu-social-navigation>li{
+   margin: 0 25px 20px 0;
+ }
 header {
       height: 410px;
 }
