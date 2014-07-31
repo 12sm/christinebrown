@@ -1,4 +1,5 @@
 <?php
+//Trim mp3 title length with [trim]
 
 add_shortcode('trim', 'trim_shortcode');
 function trim_shortcode($atts, $content = '') {
