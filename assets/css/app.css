@@ -724,9 +724,7 @@ header {
    outline:0;
 }
 
-.featimg {
-    margin: 20px 0px 20px -15px;
-}
+
 
 .excerpt {
    text-align: left !important;
@@ -952,7 +950,7 @@ header {
 }
 
 .featimg {
-    margin: 20px auto;
+    margin: 20px 0px 20px -15px;
 }
 
 .homealbumcontainer {
@@ -973,4 +971,10 @@ header {
 }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { }
+@media (min-width: 1200px) {
+
+.featimg {
+    margin: 20px auto;
+}
+
+ }
