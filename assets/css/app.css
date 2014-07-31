@@ -7,7 +7,7 @@
    Base
    ========================================================================== */
 
-body { 
+body {
 
 }
 
@@ -29,7 +29,7 @@ h2 {
    font-size: 18px;
    font-weight: 700;
    color: #FFF !important;
-   text-transform: uppercase;  
+   text-transform: uppercase;
 }
 
 h3 {
@@ -38,7 +38,7 @@ h3 {
    font-weight: 700;
    color: #FFF !important;
    text-transform: uppercase;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);  
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
 h4 {
@@ -46,20 +46,20 @@ h4 {
    font-size: 14px;
    color: #FFF !important;
    text-transform: uppercase;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);   
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
 h5 {
    font-family: 'Parisienne', cursive;
    font-size: 45px;
    color: #FFF !important;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);       
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
 h6 {
    font-size: 14px;
    color: #FFF !important;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);       
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
 a {
@@ -98,7 +98,7 @@ hr {
 }
 
 .logo {
-    max-width: 634px;   
+    max-width: 634px;
     margin-left: auto;
     margin-right: auto;
     }
@@ -121,7 +121,7 @@ hr {
    background-color: rgb(255,255,255);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
-   border-radius: 20px; 
+   border-radius: 20px;
 }
 
 #nav {
@@ -138,10 +138,10 @@ hr {
 .navbar-custom {
     font-family: "proxima-nova";
     background-color:rgba(255,255,255, .8);
-    color: #990066 !important; 
+    color: #990066 !important;
     font-weight:700;
     text-transform:uppercase;
-    border-width:0;   
+    border-width:0;
     position: absolute;
     top: 0px;
     width: 100%;
@@ -176,7 +176,7 @@ hr {
    height: 12px;
    max-width: 324px;
    margin-left: auto;
-   margin-right: auto; 
+   margin-right: auto;
    display: block;
 }
 
@@ -184,7 +184,7 @@ hr {
    height: 12px;
    max-width: 324px;
    margin-left: auto;
-   margin-right: auto;  
+   margin-right: auto;
    display: block;
 }
 
@@ -216,7 +216,7 @@ hr {
 }
 
 .addthis_native_toolbox {
-  
+
 }
 
 .quotebox {
@@ -324,7 +324,7 @@ hr {
 .albumtopline {
     overflow: hidden;
     display:block;
-    margin: auto; 
+    margin: auto;
 }
 
 .albumtitle {
@@ -332,7 +332,7 @@ hr {
    font-family: 'Parisienne', cursive;
    font-size: 40px;
    color: #FFF !important;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);  
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
 .albumreleased {
@@ -340,7 +340,7 @@ hr {
    font-size: 14px;
    color: #FFF !important;
    text-transform: uppercase;
-   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);  
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
    margin: 10px 0 0 0;
    text-align: center;
 }
@@ -359,13 +359,13 @@ hr {
   letter-spacing: 1px;
   margin: 5px;
   background-color: rgba(50, 50, 50, .5);
-  overflow: hidden; 
+  overflow: hidden;
   padding: 6px 9px;
   color: #FFF !important;
 }
 
 .songscontainer {
-  
+
 }
 
 .mp3cont {
@@ -375,7 +375,7 @@ hr {
 .mp3play {
   color: #FFF;
   float: left;
-  
+
 }
 
 .mp3numb {
@@ -388,11 +388,11 @@ hr {
 .mp3title {
   color: #FFF;
   font-family: 'proxima-nova';
-  margin: 0 0 0 40px;  
+  margin: 0 0 0 40px;
 }
 
 .license > a {
-  
+
 }
 
 
@@ -468,7 +468,7 @@ hr {
    ========================================================================== */
 footer {
    padding: 5% 0 5%;
-   background-color:rgba(255,255,255,0.1); 
+   background-color:rgba(255,255,255,0.1);
    margin: 50px 0 0 0;
 }
 
@@ -477,7 +477,7 @@ footer {
 .pandora {
    height: 70px;
    max-width: 375px;
-   margin: 0 auto 20px;   
+   margin: 0 auto 20px;
 }
 
 .pandoratext {
@@ -487,10 +487,15 @@ footer {
    font-weight: 700;
    color: #FFF !important;
    text-transform: uppercase;
-   text-align: center; 
+   text-align: center;
    margin: 0 auto 20px;
 }
-
+.navcenter{
+  width: 100%;
+}
+.navcenter img{
+  margin: 0 auto;
+}
 .panreadmore > a {
    text-decoration: none;
    text-transform: uppercase;
@@ -500,7 +505,7 @@ footer {
    background-color: rgb(255,255,255);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
-   border-radius: 20px; 
+   border-radius: 20px;
    text-align: center;
 }
 
@@ -516,7 +521,7 @@ footer {
 #scripty {
   margin: auto;
   max-width: 456px;
-  
+
 }
 
 #social ul {margin:0px; padding:0px; list-style: none;}
@@ -530,13 +535,13 @@ footer {
 #social-float>ul>li>a>i {
    color: #fff;
    text-decoration: none;
-} 
+}
 
 #downld-float>ul>li>a>i{
    color: #fff;
    text-decoration: none;
-} 
-  
+}
+
 #social-float>ul>li>a>i:hover {
 color: #99CCFF!important;
 }
@@ -591,7 +596,7 @@ color: #99CCFF!important;
 }
 
 .bottomrow {
-      background-color:rgba(255,255,255,0.2); 
+      background-color:rgba(255,255,255,0.2);
       bottom: 0px;
       margin: 20px 0 0 0;
 }
@@ -607,7 +612,7 @@ color: #99CCFF!important;
    -webkit-border-radius: 5px;
    -moz-border-radius: 5px;
    border-radius: 5px;
-   border: 0;   
+   border: 0;
 }
 
 #mc-embedded-subscribe {
@@ -619,7 +624,7 @@ color: #99CCFF!important;
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
-   border: 0; 
+   border: 0;
 }
 
 .sponslogo {
@@ -725,8 +730,8 @@ header {
       float:none;
   }
 .navbar-nav {
-  margin: 1px 1px; 
-}  
+  margin: 1px 1px;
+}
 
 .navbar-custom {
     background-color:rgba(255,255,255,0.1);
@@ -795,7 +800,7 @@ header {
   display: inherit;
 }
 
-.readmore > a:hover { 
+.readmore > a:hover {
    color: #444;
 }
 .signup{
@@ -823,7 +828,7 @@ header {
 
 .pandoratext {
   text-align: left;
-  margin: auto; 
+  margin: auto;
 }
 
 .panreadmore > a {
@@ -857,7 +862,7 @@ header {
    list-style: none;
    margin-left: auto;
    max-width: 900px;
-   margin: 0 auto; 
+   margin: 0 auto;
 }
 
 #social-float>#menu-social-navigation>li{
@@ -897,7 +902,7 @@ header {
 }
 
 .license > a {
-  
+
 }
 
 .albumcover {
@@ -920,7 +925,7 @@ header {
 .albumtitle {
   float: left;
   text-align: left;
-  margin: 0 20px 0 3px;   
+  margin: 0 20px 0 3px;
 }
 
 .albumreleased {
@@ -955,15 +960,15 @@ header {
 
 .mp3play {
   font-size: inherit;
-  
+
 }
 
 .mp3numb {
-  
+
 }
 
 .mp3title {
-  
+
 }
 
 .bottomrow {
