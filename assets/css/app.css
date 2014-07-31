@@ -311,9 +311,18 @@ hr {
   margin-bottom: 0px !important;
 }
 
+.homeimg {
+    padding: 3%;
+    background-color: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    margin: auto;
+}
+
 .homealbumcontainer {
   background-color:rgba(255,255,255,0.1);
   padding: 10px;
+  max-width: 300px;
+  margin: auto;
 }
 
 .homealbumcover {
@@ -728,12 +737,6 @@ header {
     margin: inherit;
 }
 
-.homeimg {
-    padding: 3%;
-    background-color: rgba(255, 255, 255, 0.1);
-    overflow: hidden;
-}
-
 .readmore > a:hover { 
    color: #444;
 }
@@ -832,6 +835,10 @@ header {
 
 .license > a {
   
+}
+
+.homealbumcontainer {
+  max-width: inherit;
 }
 
 .homealbumtitle {
