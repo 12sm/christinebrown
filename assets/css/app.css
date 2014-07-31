@@ -998,8 +998,7 @@ header {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-<<<<<<< HEAD
-=======
+
 .navcenter{
   width: initial;
   margin-left: initial;
@@ -1007,7 +1006,6 @@ header {
 body.music .wrap {
   max-width: 1400px
 }
->>>>>>> origin/master
 
 .featured {
     margin: inherit;
