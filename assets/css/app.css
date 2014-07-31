@@ -871,10 +871,9 @@ header {
   margin-left: auto;
   max-width: 280px;
   margin: 0 auto;
-  padding-left: 70px;
+  padding-left: 0px;
   width: 58%;
-  max-width: 400px;
-}
+  max-width: 415px;
 }
 
 #social-float>#menu-social-navigation>li{
