@@ -736,7 +736,9 @@ header {
 .navbar-custom  .navbar-nav>li>a {
    color: #FFF;
 }
-
+.navbar-custom  .navbar-nav>li>a:hover{
+color: #DA279E;
+}
 .navbar-custom  .navbar-nav li>a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a  {
    background: none;
 }
