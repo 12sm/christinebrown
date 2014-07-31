@@ -678,7 +678,7 @@ header {
 
 #nav.affix {
     position: fixed;
-    top: 100px;
+    top: 30px;
 }
 
 .navbar {
@@ -946,6 +946,11 @@ header {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
+
+#nav.affix {
+    top: 100px;
+}
 
 .featured {
     margin: inherit;
