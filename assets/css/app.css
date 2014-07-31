@@ -277,6 +277,9 @@ hr {
    text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
 }
 
+.contactimg {
+  display: none;
+}
 
 
 /* ==========================================================================
@@ -780,6 +783,11 @@ header {
 .signup{
     float: left;
     display: block;
+}
+
+.contactimg {
+  display: inherhit;
+  margin: 0 0 0 20px;
 }
 
 .pandorawrapper {
