@@ -160,6 +160,10 @@ hr {
     margin: 0 0 5px 30px;
 }
 
+.navigation {
+  text-align: center;
+}
+
 /* ==========================================================================
    Content
    ========================================================================== */
@@ -678,6 +682,11 @@ header {
       height: 410px;
 }
 
+
+.navigation {
+  display: none;
+}
+
 .masthead {
   margin: inherit;
   }
@@ -970,7 +979,6 @@ header {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-
 
 #nav.affix {
     top: 100px;
