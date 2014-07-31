@@ -1002,10 +1002,6 @@ header {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
-body.music .wrap {
-  max-width: 1400px
-}
-
 .featured {
     margin: inherit;
 }
@@ -1037,6 +1033,10 @@ body.music .wrap {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+
+body.music .wrap {
+  max-width: 1400px
+}
 
 .homefeatimg {
     margin: 20px auto;
