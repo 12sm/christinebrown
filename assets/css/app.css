@@ -707,8 +707,11 @@ header {
 
 #nav.affix {
     position: fixed;
-    -moz-document top: 30px;
     background-color: rgba(255, 255, 255, 0.8);
+}
+
+@-moz-document #nav.affix {
+    top: 30px;
 }
 
 .navbar {
