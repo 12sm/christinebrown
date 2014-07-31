@@ -1001,6 +1001,7 @@ header {
 
 #social-float>ul {
    max-width: 900px;
+   width: 65%;
 }
 
 .navcenter{
