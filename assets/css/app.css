@@ -833,10 +833,6 @@ header {
   
 }
 
-.homealbumcontainer {
-  max-width: inherit;
-}
-
 .homealbumtitle {
   margin: 20px 0px 20px 20px;
 }
@@ -941,6 +937,10 @@ header {
 
 .featured {
     margin: inherit;
+}
+
+.homealbumcontainer {
+  max-width: inherit;
 }
 
 .albumcover {
