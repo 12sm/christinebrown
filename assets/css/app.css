@@ -920,7 +920,6 @@ header {
 .storelink {
   margin: 0px 200px 0px 0px;
   text-align: inherit;
-  margin: inherit;
 }
 
 .storelink > a {
@@ -990,6 +989,10 @@ header {
 }
 
 .albumcover {
+  margin: inherit;
+}
+
+.storelink {
   margin: inherit;
 }
 
