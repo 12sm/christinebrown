@@ -30,6 +30,11 @@
           <div id="scripty1">
           <img class="img-responsive" src="/assets/img/find-christine-on.png"></img>
           </div>
+          <?php
+        if (has_nav_menu('social_navigation')) :
+           wp_nav_menu(array('theme_location' => 'social_navigation', 'menu_class' => ''));
+         endif;
+        ?>
           <ul id="menu-social-navigation" class="">
           <li class="menu-"><a href="https://www.facebook.com/christinebrownpiano" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
           <li class="menu-"><a href="https://twitter.com/pianochristineb" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>

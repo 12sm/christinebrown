@@ -6,7 +6,7 @@
  * replace the dash with an underscore when adding it to the object below.
  *
  * .noConflict()
- * The routing is enclosed within an anonymous function so that you can 
+ * The routing is enclosed within an anonymous function so that you can
  * always reference jQuery with $, even when in .noConflict() mode.
  *
  * Google CDN, Latest jQuery
@@ -16,23 +16,25 @@
 
 (function($) {
 
-// Use this variable to set up the common and page specific functions. If you 
+// Use this variable to set up the common and page specific functions. If you
 // rename this variable, you will also need to rename the namespace below.
 var Roots = {
   // All pages
   common: {
     init: function() {
+      //Make social menus open in no window
+      $('.menu- a').attr('target', '_blank');
       // JavaScript to be fired on all pages
         //console.log('common page is firing');
     $('#signup').bind('touchstart', function(e) {
-        $(this).toggleClass('hover_effect');    
+        $(this).toggleClass('hover_effect');
     });
     if ($(window).width() <= 768){
        $.backstretch('../assets/img/bg.jpg');
       } else {
        $.backstretch('../assets/img/bg.jpg');
     }
-  
+
     soundManager.setup({
     // disable or enable debug output
     debugMode: true,
@@ -48,7 +50,7 @@ var Roots = {
 soundManager.onready(function() {
   // soundManager.createSound() etc. may now be called
   inlinePlayer = new InlinePlayer();
-});   
+});
 
 function affixnav(){
 
