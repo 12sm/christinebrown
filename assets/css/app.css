@@ -718,6 +718,11 @@ header {
     background-color: rgba(255, 255, 255, 0.8);
 }
 
+@-moz-document url-prefix() { 
+  #nav.affix {
+    margin-top: 30px;
+  }
+}
 
 .navbar {
    padding: 15px 0;
