@@ -600,7 +600,7 @@ color: #99CCFF!important;
 }
 
 #mce-EMAIL {
-   width: 250px;
+  width: 30%;
    height: 20px;
    -webkit-border-radius: 5px;
    -moz-border-radius: 5px;
@@ -676,6 +676,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+  #mce-EMAIL {
+width: 250px;
+}
 
 header {
       height: 410px;
