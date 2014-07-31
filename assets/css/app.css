@@ -307,6 +307,7 @@ hr {
 .albumcover {
   max-width: 300px;
   margin: auto;
+  display: block:
 }
 
 .albumcontainer {
