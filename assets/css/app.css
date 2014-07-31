@@ -726,7 +726,7 @@ header {
 }
 
 .featimg {
-    margin: 20px auto;
+    margin: 20px 0px 20px -15px;
 }
 
 .excerpt {
@@ -950,6 +950,10 @@ header {
 
 .featured {
     margin: inherit;
+}
+
+.featimg {
+    margin: 20px auto;
 }
 
 .homealbumcontainer {
