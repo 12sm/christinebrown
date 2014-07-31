@@ -981,7 +981,7 @@ header {
 @media (min-width: 992px) {
 
 #nav.affix {
-    top: 100px;
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 .featured {
