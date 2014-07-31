@@ -578,6 +578,7 @@ color: #99CCFF!important;
   display: block;
   list-style: none;
   text-align: center;
+  max-width: 415px;
 }
 
 /*#downld-float>ul{
