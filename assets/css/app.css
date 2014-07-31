@@ -130,7 +130,7 @@ hr {
 
 #nav.affix {
    position: fixed;
-   top: 30px;
+   top: 1px;
    z-index:10;
    -webkit-transition: all .6s ease-in-out;
 }
@@ -144,7 +144,7 @@ hr {
     border-width:0;   
     position: absolute;
     top: 0px;
-    max-width: 100%;
+    width: 100%;
 }
 
 .navbar-custom  .navbar-nav>li>a {
@@ -183,11 +183,11 @@ hr {
 }
 
 .homefeature {
-
+    padding: 3% 2% 0;
 }
 
 .featimg {
-  margin: 20px auto;
+  margin: 20px 0 20px 20px;
   max-width: 300px;
 }
 
@@ -721,6 +721,10 @@ header {
    outline:0;
 }
 
+.featimg {
+    margin: 20px auto;
+}
+
 .excerpt {
    text-align: left !important;
 }
@@ -849,6 +853,10 @@ header {
   max-width: 90px;
   height: auto;
   display: inherit;
+}
+
+.homealbumcontainer {
+  max-width: inherit;
 }
 
 .albumcover {
