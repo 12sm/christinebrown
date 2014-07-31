@@ -88,10 +88,6 @@ hr {
   padding: 0 0 20px 0;
 }
 
-.centered {
-  text-align: centered;
-}
-
 /* ==========================================================================
    Header
    ========================================================================== */
@@ -736,10 +732,12 @@ header {
    outline:0;
 }
 
-
-
 .excerpt {
    text-align: left !important;
+}
+
+.homexcerpt {
+  text-align: center !important;
 }
 
 .newsbody {
