@@ -1000,8 +1000,8 @@ header {
 @media (min-width: 992px) {
 
 .navcenter{
-  width: initial;
-  margin-left: initial;
+  width: initial!important;
+  margin-left: initial!important;
 }
 
 .featured {
