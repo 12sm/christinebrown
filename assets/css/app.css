@@ -1003,9 +1003,6 @@ header {
   width: initial;
   margin-left: initial;
 }
-body.music .wrap {
-  max-width: 1400px
-}
 
 .featured {
     margin: inherit;
