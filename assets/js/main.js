@@ -30,7 +30,7 @@ var Roots = {
         $(this).toggleClass('hover_effect');
     });
 
-       $(body).backstretch('../assets/img/bg.jpg');
+       $('body').backstretch('../assets/img/bg.jpg');
 
     soundManager.setup({
     // disable or enable debug output
