@@ -30,8 +30,6 @@ var Roots = {
         $(this).toggleClass('hover_effect');
     });
 
-       $('body').backstretch('../assets/img/bg.jpg');
-
        //iOS 7 workaround
        if (navigator.userAgent.match(/(iPad|iPhone);.*CPU.*OS 7_\d/i)) {
   $("body").css({
@@ -40,7 +38,7 @@ var Roots = {
     "padding-bottom": "50px"
   });
 } else {
-  $.backstretch("path/to/image.jpg");
+  $.backstretch("../assets/img/bg.jpg");
 }
 
 
