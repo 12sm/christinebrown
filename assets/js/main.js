@@ -29,11 +29,7 @@ var Roots = {
     $('#signup').bind('touchstart', function(e) {
         $(this).toggleClass('hover_effect');
     });
-    if ($(window).width() <= 768){
-       //$.backstretch('../assets/img/bg.jpg');
-      } else {
-       $.backstretch('../assets/img/bg.jpg');
-    }
+       $('.bs-container').backstretch('../assets/img/bg.jpg');
 
     soundManager.setup({
     // disable or enable debug output

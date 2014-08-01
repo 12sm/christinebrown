@@ -1,5 +1,6 @@
 <?php get_template_part('templates/head'); ?>
 <body <?php body_class(); ?>>
+<div class="bs-container">
 
   <!--[if lt IE 8]>
     <div class="alert alert-warning">
@@ -31,6 +32,6 @@
   </div><!-- /.wrap -->
 
   <?php get_template_part('templates/footer'); ?>
-
+</div>
 </body>
 </html>
