@@ -32,6 +32,17 @@ var Roots = {
 
        $('body').backstretch('../assets/img/bg.jpg');
 
+       //iOS 7 workaround
+       if (navigator.userAgent.match(/(iPad|iPhone);.*CPU.*OS 7_\d/i)) {
+  $("body").css({
+    "background": "url(/assets/img/bg.jpg) center center no-repeat",
+    "background-size": "cover"
+  });
+} else {
+  $.backstretch("path/to/image.jpg");
+}
+
+
     soundManager.setup({
     // disable or enable debug output
     debugMode: true,
