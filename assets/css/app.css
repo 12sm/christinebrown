@@ -684,9 +684,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  body {
-  background: initial;
-}
+
 
 #social-float>#menu-social-navigation>li{
    margin: 0 25px 20px 0;
