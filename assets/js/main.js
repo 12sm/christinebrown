@@ -30,7 +30,7 @@ var Roots = {
         $(this).toggleClass('hover_effect');
     });
     if ($(window).width() <= 768){
-       $.backstretch('../assets/img/bg.jpg');
+       //$.backstretch('../assets/img/bg.jpg');
       } else {
        $.backstretch('../assets/img/bg.jpg');
     }
@@ -54,7 +54,7 @@ soundManager.onready(function() {
 
 function affixnav(){
 
-$('#nav').affix({
+$('.affix-wrapper').affix({
       offset: {
         top: function(){
           if ($(window).width() <= 768){ return 0};
