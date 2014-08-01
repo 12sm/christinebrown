@@ -36,7 +36,8 @@ var Roots = {
        if (navigator.userAgent.match(/(iPad|iPhone);.*CPU.*OS 7_\d/i)) {
   $("body").css({
     "background": "url(/assets/img/bg.jpg) center center no-repeat",
-    "background-size": "cover"
+    "background-size": "cover",
+    "padding-bottom": "50px"
   });
 } else {
   $.backstretch("path/to/image.jpg");
