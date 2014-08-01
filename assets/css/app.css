@@ -651,9 +651,15 @@ color: #99CCFF!important;
 .credits {
    text-align: center;
 }
-
+.nominations{
+font-family: "proxima-nova";
+font-size: 14px;
+color: #FFF !important;
+text-transform: uppercase;
+text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
+margin: 10px 0 0 0;
+text-align: center;
 }
-
 
 
 /* ==========================================================================
