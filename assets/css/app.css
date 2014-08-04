@@ -813,7 +813,6 @@ header {
 }
 
 .homealbumcover {
-  max-width: 90px;
   height: auto;
   display: inherit;
 }
