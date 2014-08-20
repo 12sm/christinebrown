@@ -286,6 +286,14 @@ hr {
   display: none;
 }
 
+.newstitle {
+   font-family: "proxima-nova";
+   font-size: 12px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-transform: uppercase;
+}
+
 
 /* ==========================================================================
    Sidebar
@@ -918,6 +926,10 @@ header {
 
 .newstitles {
    padding: 7% 0;
+}
+
+.newstitle {
+   font-size: 18px;
 }
 
 .license > a {
