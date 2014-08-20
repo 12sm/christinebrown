@@ -192,6 +192,15 @@ hr {
     padding: 3% 2% 0;
 }
 
+.homeexcerpt {
+   font-family: "proxima-nova";
+   font-size: 14px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
+   
+}
+
 .homefeatimg {
   margin: 20px 0px 20px -25px;
 }
