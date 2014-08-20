@@ -263,8 +263,6 @@ hr {
   background-color:rgba(255,255,255,0.1);
   padding: 10px;
   max-width: 300px;
-  max-height: 400px;
-  overflow: scroll;
   margin: auto;
 }
 
@@ -812,6 +810,8 @@ header {
 
 .homemp3container {
   color:#FFF;
+  max-height: 400px;
+  overflow: scroll;
 }
 
 .homealbumcover {
