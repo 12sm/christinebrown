@@ -810,8 +810,6 @@ header {
 
 .homemp3container {
   color:#FFF;
-  max-height: 400px;
-  overflow: scroll;
 }
 
 .homealbumcover {
