@@ -833,7 +833,7 @@ header {
 
 .homemp3cont {
   margin: 5px 0 0 10px;
-  max-height: 400px;
+  max-height: 140px;
   overflow: scroll;
   overflow-x: hidden;
   
@@ -1093,6 +1093,10 @@ body.music .wrap {
 
 .homefeatimg {
     margin: 20px auto;
+}
+
+.homealbumcover {
+  margin: 0 0 0 7px;
 }
 
  }
