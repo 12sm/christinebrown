@@ -211,6 +211,7 @@ hr {
 .gallery-row { padding: 15px 0; }
 
 .newstitle {
+   padding: 20px 0 0 0;
    font-family: "proxima-nova";
    font-size: 12px;
    font-weight: 700;
@@ -220,6 +221,7 @@ hr {
 }
 
 .newslink {
+   padding: 20px 0 0 0;
    font-family: "proxima-nova";
    font-size: 12px;
    font-weight: 700;
