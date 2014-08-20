@@ -736,6 +736,11 @@ header {
     height: 180px;
 }
 
+.logosmaller {
+    max-width: 300px;
+    height: auto;
+}
+
 .topfeatured {
     text-align: center;
     display: inherit;
