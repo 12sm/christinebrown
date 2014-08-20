@@ -2,7 +2,13 @@
   <div class="container">
   <div class="row">
     <div class="col-md-12">
-
+    <?php if ( is_front_page() ) : ?> 
+    <div class="logo">
+    <a href="<?php echo home_url(); ?>/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>
+    <?php else : ?>
+    <div class="logosmaller">
+    <a href="php echo home_url();/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>
+   <?php endif; ?>
     <div class="topfeatured">
      <?php echo do_shortcode('[wpv-view name="Featured News"]'); ?>
     </div>
