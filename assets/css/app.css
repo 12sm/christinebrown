@@ -210,6 +210,25 @@ hr {
 /* Gallery Shortcode */
 .gallery-row { padding: 15px 0; }
 
+.newstitle {
+   font-family: "proxima-nova";
+   font-size: 12px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-transform: uppercase;
+   text-align: center;
+}
+
+.newslink {
+   font-family: "proxima-nova";
+   font-size: 12px;
+   font-weight: 700;
+   color: #FFF !important;
+   text-transform: uppercase;
+   text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
+   text-align: center;
+}
+
 .newsbody {
   text-align: center;
   margin: auto;
@@ -286,14 +305,7 @@ hr {
   display: none;
 }
 
-.newstitle {
-   font-family: "proxima-nova";
-   font-size: 12px;
-   font-weight: 700;
-   color: #FFF !important;
-   text-transform: uppercase;
-   text-align: center;
-}
+
 
 
 /* ==========================================================================
@@ -797,6 +809,10 @@ header {
   text-align: center !important;
 }
 
+.newslink {
+   font-size: 14px;
+}
+
 .newsbody {
     width: 700px;
 }
@@ -1043,6 +1059,7 @@ header {
   max-width: inherit;
   max-height: 400px;
   overflow: scroll;
+  overflow-x: hidden;
 }
 
 .albumcover {
