@@ -1028,6 +1028,8 @@ header {
 
 .homealbumcontainer {
   max-width: inherit;
+  max-height: 400px;
+  overflow: scroll;
 }
 
 .albumcover {
