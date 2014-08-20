@@ -729,7 +729,7 @@ header {
 }
 
 .masthead {
-  margin: inherit;
+  margin: 0 auto 20px;
   }
 
 .logo {
