@@ -721,7 +721,7 @@ body {
    margin: 0 25px 20px 0;
  }
 header {
-      height: 410px;
+      max-height: 410px;
 }
 
 .navigation {
