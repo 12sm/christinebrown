@@ -829,6 +829,7 @@ header {
 
 .homealbumtitle {
   text-align: center;
+  padding: 10px 0 0;
 }
 
 .homemp3cont {
@@ -841,6 +842,7 @@ header {
 
 .homemp3container {
   color:#FFF;
+  margin: -20px 0 0 0;
 }
 
 .homealbumcover {
