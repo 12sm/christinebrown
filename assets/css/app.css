@@ -739,6 +739,7 @@ header {
 .logosmaller {
     max-width: 300px;
     height: auto;
+    margin: auto;
 }
 
 .topfeatured {
