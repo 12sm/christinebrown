@@ -5,9 +5,6 @@
     <?php if ( is_front_page() ) : ?> 
     <div class="logo">
     <a href="<?php echo home_url(); ?>/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>   
-    <?php if ( is_home() ) : ?> 
-    <div class="logosmaller">
-    <a href="php echo home_url();/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>
     <?php else : ?>
     <div class="logosmaller">
     <a href="php echo home_url();/"><img class="img-responsive" src="/assets/img/cblogo.png"</img></a>
