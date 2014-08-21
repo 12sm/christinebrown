@@ -733,6 +733,10 @@ header {
       max-height: 410px;
 }
 
+.addthis_native_toolbox {
+
+}
+
 .navigation {
   display: none;
 }
