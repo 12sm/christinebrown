@@ -242,7 +242,7 @@ hr {
 
 .newsbody {
   text-align: center;
-  margin: auto;
+  margin: 20px auto 0;
 }
 
 .addthis_native_toolbox {
@@ -334,7 +334,11 @@ hr {
 .hentry header { }
 .hentry time { }
 .hentry .byline { }
-.hentry .entry-content { }
+
+.hentry .entry-content {
+    padding: 20px;
+}
+
 .hentry footer { }
 
 /* ==========================================================================
