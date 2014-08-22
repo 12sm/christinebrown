@@ -383,12 +383,12 @@ hr {
 }
 
 
-.storelink {
+.storelink .homestorelink {
   text-align: center;
   margin: 10px 0;
 }
 
-.storelink > a {
+.storelink > a .homestorelink > a {
   font-family: "proxima-nova";
   font-size: 12px;
   font-weight: 700;
