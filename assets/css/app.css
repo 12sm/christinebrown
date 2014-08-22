@@ -383,12 +383,30 @@ hr {
 }
 
 
-.storelink .homestorelink {
+.storelink {
   text-align: center;
   margin: 10px 0;
 }
 
-.storelink > a .homestorelink > a {
+.homestorelink {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.storelink > a {
+  font-family: "proxima-nova";
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 5px;
+  background-color: rgba(50, 50, 50, .5);
+  overflow: hidden;
+  padding: 6px 9px;
+  color: #FFF !important;
+}
+
+.homestorelink > a {
   font-family: "proxima-nova";
   font-size: 12px;
   font-weight: 700;
