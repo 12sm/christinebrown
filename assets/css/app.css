@@ -755,7 +755,7 @@ margin-right: 0;
 @media (min-width: 768px) {
 
 div#tribe-events {
-margin-right: 0;
+margin-right: -50%;
 }
 
 body {
