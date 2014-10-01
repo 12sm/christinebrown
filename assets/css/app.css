@@ -324,12 +324,28 @@ color: #F1CDEF;
 
 
 /* ==========================================================================
-   Sidebar
+   Concerts
    ========================================================================== */
 
-.sidebar { }
+#tribe-events-content table.tribe-events-calendar, #tribe-events-content .tribe-events-calendar td {
+background: rgba(136, 136, 136, 0.3);
+}
 
+#tribe-events-content a, .tribe-events-event-meta a {
+text-decoration: none;
+text-shadow: none;
+color: #FFF;
+font-weight: normal;
+}
 
+#tribe-events-content a:hover, .tribe-events-event-meta a:hover {
+color:#E491C8!important;
+}
+
+.tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"], .tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"]>a {
+background-color: #C089BA;
+color: #fff;
+}
 
 /* ==========================================================================
    Posts
@@ -1149,7 +1165,7 @@ margin-top: 20px;
 @media (min-width: 1200px) {
 
 div#tribe-events {
-margin-right: -50%!important;
+margin-right: -50%;
 margin-top: 20px;
 }
 
