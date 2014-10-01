@@ -374,6 +374,25 @@ font-size: 20px;
 text-align: center;
 }
 
+#tribe-events-content {
+text-align: center;
+}
+
+.single-tribe_events h2.tribe-events-single-event-title {
+font-size: 2.7em;
+text-shadow: 2px 2px 2px rgba(10, 10, 10, .4);
+}
+
+span.date-start.dtstart, span.end-time.dtend {
+text-shadow: none;
+}
+
+span.tribe-events-cost {
+color: rgb(255, 206, 247);
+background: rgba(255,255,255,.1);
+padding: 10px;
+}
+
 /* ==========================================================================
    Posts
    ========================================================================== */
