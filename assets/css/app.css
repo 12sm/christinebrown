@@ -741,6 +741,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 @media (min-width: 480px) {
 
+div#tribe-events {
+margin-right: 0;
+}
+
 .homefeatimg {
   margin: 20px auto;
 }
@@ -749,6 +753,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
+div#tribe-events {
+margin-right: 0;
+}
+
 body {
   padding-bottom: initial;
 }
@@ -1089,6 +1098,10 @@ header {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
+div#tribe-events {
+margin-right: -50%;
+}
+
 #social-float>ul {
    max-width: 900px;
    width: 76%;
@@ -1131,6 +1144,11 @@ header {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+
+div#tribe-events {
+margin-right: -50%;
+}
+
 #social-float>ul {
 width: 65%;
 }
