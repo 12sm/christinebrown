@@ -327,7 +327,7 @@ color: #F1CDEF;
    Concerts
    ========================================================================== */
 
-#tribe-events-content table.tribe-events-calendar, #tribe-events-content .tribe-events-calendar td {
+/* #tribe-events-content table.tribe-events-calendar, #tribe-events-content .tribe-events-calendar td {
 background: rgba(136, 136, 136, 0.3);
 }
 
@@ -757,10 +757,10 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 @media (min-width: 480px) {
 
-div#tribe-events {
+/* div#tribe-events {
 margin-right: 0;
 margin-top: 20px;
-}
+} */
 
 .homefeatimg {
   margin: 20px auto;
@@ -771,10 +771,10 @@ margin-top: 20px;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
-div#tribe-events {
+/* div#tribe-events {
 margin-right: -50%;
 margin-top: 20px;
-}
+} */
 
 body {
   padding-bottom: initial;
@@ -1116,10 +1116,10 @@ header {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
-div#tribe-events {
+/* div#tribe-events {
 margin-right: -50%;
 margin-top: 20px;
-}
+} */
 
 #social-float>ul {
    max-width: 900px;
@@ -1164,10 +1164,10 @@ margin-top: 20px;
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 
-div#tribe-events {
+/* div#tribe-events {
 margin-right: -50%;
 margin-top: 20px;
-}
+} */
 
 #social-float>ul {
 width: 65%;
