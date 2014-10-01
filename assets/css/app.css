@@ -362,6 +362,18 @@ body.single.single-tribe_events div#tribe-events {
 margin-right: 0; 
 }
 
+.single-tribe_events .tribe-events-content {
+width: 100%;
+max-width: 100%;
+background: rgba(255,255,255,.2);
+color: #222;
+}
+
+.single-tribe_events .tribe-events-content p {
+font-size: 20px;
+text-align: center;
+}
+
 /* ==========================================================================
    Posts
    ========================================================================== */
