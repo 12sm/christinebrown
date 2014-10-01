@@ -556,9 +556,13 @@ margin-right: 0;
    Footer
    ========================================================================== */
 footer {
-   padding: 5% 0 5%;
    background-color:rgba(255,255,255,0.1);
    margin: 50px 0 0 0;
+}
+
+footer {
+padding: 0px!important;
+overflow: hidden;
 }
 
 .content-info { }
