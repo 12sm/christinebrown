@@ -955,7 +955,7 @@ header {
 }
 
 .pandorawrapper {
-    width: 900px;
+    width: 100%;
     overflow: hidden;
     display:block;
     margin:auto;
