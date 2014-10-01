@@ -743,6 +743,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 div#tribe-events {
 margin-right: 0;
+margin-top: 20px;
 }
 
 .homefeatimg {
@@ -756,6 +757,7 @@ margin-right: 0;
 
 div#tribe-events {
 margin-right: -50%;
+margin-top: 20px;
 }
 
 body {
@@ -1100,6 +1102,7 @@ header {
 
 div#tribe-events {
 margin-right: -50%;
+margin-top: 20px;
 }
 
 #social-float>ul {
@@ -1147,6 +1150,7 @@ margin-right: -50%;
 
 div#tribe-events {
 margin-right: -50%;
+margin-top: 20px;
 }
 
 #social-float>ul {
