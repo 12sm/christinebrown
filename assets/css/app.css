@@ -353,6 +353,16 @@ background-color: #C089BA;
 color: #fff;
 }
 
+/* SINGLE EVENT */
+
+body.single.single-tribe_events {
+background: rgb(90, 90, 90);
+}
+
+body.single.single-tribe_events div#tribe-events {
+margin-right: 0;
+}
+
 /* ==========================================================================
    Posts
    ========================================================================== */
