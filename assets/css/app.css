@@ -157,7 +157,6 @@ hr {
 
 .nav-justified > li > a {
     text-align: center;
-    margin: 0 0 5px 30px;
 }
 
 .navigation {
@@ -780,6 +779,10 @@ margin-top: 20px;
 
 .homefeatimg {
   margin: 20px auto;
+}
+
+.pandorawrapper {
+width: 100%;
 }
 
 }
