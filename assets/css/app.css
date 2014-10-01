@@ -375,6 +375,16 @@ padding: 10px;
 background: rgba(255,255,255,.2);
 }
 
+a.tribe-events-read-more {
+background: #FFF;
+color: rgb(116, 17, 108)!important;
+padding: 10px;
+border-radius: 100px;
+/* font-weight: bold; */
+}
+
+a.tribe-events-read-more:hover {background:#F6DFF4;}
+
 /* SINGLE EVENT */
 
 body.single.single-tribe_events {
