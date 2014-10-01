@@ -1135,6 +1135,14 @@ header {
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
+.pandorawrapper {
+    width: 900px;
+    overflow: hidden;
+    display:block;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
 div#tribe-events {
 margin-right: -50%;
 margin-top: 20px;
