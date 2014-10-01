@@ -363,6 +363,13 @@ background: rgba(255,255,255,.2);
 padding: 15px;
 }
 
+.tribe-events-list .tribe-events-event-cost span {
+border: none;
+color: rgb(255, 206, 247);
+background: rgba(255,255,255,.1);
+padding: 10px;
+}
+
 /* SINGLE EVENT */
 
 body.single.single-tribe_events {
