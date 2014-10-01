@@ -355,7 +355,7 @@ color: #fff;
 /* SINGLE EVENT */
 
 body.single.single-tribe_events {
-background: rgb(90, 90, 90);
+background: url("../img/bg.jpg");
 }
 
 body.single.single-tribe_events div#tribe-events {
@@ -396,6 +396,13 @@ padding: 10px;
 .single-tribe_events .tribe-events-event-meta {
 background: rgba(255,255,255,.2);
 border: none;
+}
+
+.tribe-events-event-image img {
+max-width: 100%;
+height: auto;
+padding: 10px;
+background: rgba(255,255,255,.2);
 }
 
 /* ==========================================================================
