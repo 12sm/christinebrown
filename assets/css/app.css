@@ -370,6 +370,11 @@ background: rgba(255,255,255,.1);
 padding: 10px;
 }
 
+.tribe-events-list .tribe-events-event-image img {
+padding: 10px;
+background: rgba(255,255,255,.2);
+}
+
 /* SINGLE EVENT */
 
 body.single.single-tribe_events {
