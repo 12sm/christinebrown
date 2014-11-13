@@ -1,15 +1,15 @@
 <![CDATA[
-|   _      ___    ____                
-| /' \   /'___`\ /\  _`\   /'\_/`\    
-|/\_, \ /\_\ /\ \\ \,\L\_\/\      \   
-|\/_/\ \\/_/// /__\/_\__ \\ \ \__\ \  
-|   \ \ \  // /_\ \ /\ \L\ \ \ \_/\ \ 
+|   _      ___    ____
+| /' \   /'___`\ /\  _`\   /'\_/`\
+|/\_, \ /\_\ /\ \\ \,\L\_\/\      \
+|\/_/\ \\/_/// /__\/_\__ \\ \ \__\ \
+|   \ \ \  // /_\ \ /\ \L\ \ \ \_/\ \
 |    \ \_\/\______/ \ `\____\ \_\\ \_\
-|     \/_/\/_____/   \/_____/\/_/ \/_/                                                                                                           
- 
+|     \/_/\/_____/   \/_____/\/_/ \/_/
+
 built by 12South Music
 http://12southmusic.com/
- 
+
 ]]>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" <?php language_attributes(); ?>> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" <?php language_attributes(); ?>> <![endif]-->
@@ -29,6 +29,7 @@ http://12southmusic.com/
   <link href='http://fonts.googleapis.com/css?family=Parisienne' rel='stylesheet' type='text/css'>
   <script type="text/javascript" src="//use.typekit.net/ijs8qwb.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c96d1a34c34d66"></script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546500d21c7af0e6" async="async"></script>
+
 
 </head>
