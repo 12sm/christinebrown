@@ -28,8 +28,7 @@ $event_id = get_the_ID();
 	<?php tribe_events_the_notices() ?>
 
 	<?php the_title( '<h2 class="tribe-events-single-event-title summary entry-title">', '</h2>' ); ?>
-	
-	<center><div class="addthis_sharing_toolbox" data-url="<?php the_permalink(); ?>" data-title="<?php the_title_attribute(); ?>"></div></center>
+
 
 	<div class="tribe-events-schedule updated published tribe-clearfix">
 		<?php echo tribe_events_event_schedule_details( $event_id, '<h3>', '</h3>' ); ?>
@@ -37,6 +36,7 @@ $event_id = get_the_ID();
 			<span class="tribe-events-divider">|</span>
 			<span class="tribe-events-cost"><?php echo tribe_get_cost( null, true ) ?></span>
 		<?php endif; ?>
+		<center><div class="addthis_sharing_toolbox" data-url="<?php the_permalink(); ?>" data-title="<?php the_title_attribute(); ?>"></div></center>
 	</div>
 
 	<!-- Event header -->

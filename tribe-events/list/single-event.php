@@ -52,6 +52,7 @@ $organizer = tribe_get_organizer();
 <!-- Event Meta -->
 <?php do_action( 'tribe_events_before_the_meta' ) ?>
 <div class="tribe-events-event-meta vcard">
+<div class="addthis_sharing_toolbox" data-url="<?php the_permalink(); ?>" data-title="<?php the_title_attribute(); ?>"></div>
 	<div class="author <?php echo $has_venue_address; ?>">
 
 		<!-- Schedule & Recurrence Details -->

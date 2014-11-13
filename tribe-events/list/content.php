@@ -19,7 +19,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<!-- List Title -->
 	<?php do_action( 'tribe_events_before_the_title' ); ?>
 	<h2 class="tribe-events-page-title"><?php echo tribe_get_events_title() ?></h2>
-	<div class="addthis_sharing_toolbox" data-url="<?php the_permalink(); ?>" data-title="<?php the_title_attribute(); ?>"></div>
 	<?php do_action( 'tribe_events_after_the_title' ); ?>
 
 	<!-- Notices -->
