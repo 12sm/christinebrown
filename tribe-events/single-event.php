@@ -36,7 +36,7 @@ $event_id = get_the_ID();
 			<span class="tribe-events-divider">|</span>
 			<span class="tribe-events-cost"><?php echo tribe_get_cost( null, true ) ?></span>
 		<?php endif; ?>
-		<center><div class="addthis_sharing_toolbox" data-url="<?php the_permalink(); ?>" data-title="<?php the_title_attribute(); ?>"></div></center>
+		<center><div class="addthis_sharing_toolbox" data-url="<?php echo tribe_get_event_link() ?>" data-title="<?php the_title() ?>"></div></center>
 	</div>
 
 	<!-- Event header -->
